@@ -261,11 +261,11 @@
 		  "image": "kh1_4_paisdelasmaravillas",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Cuarto misterioso",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -284,11 +284,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Palacio real",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -306,11 +306,33 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Bosque de lotos",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Jardin del té",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -334,11 +356,11 @@
 		  "image": "kh1_5_selvaprofunda",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Casa del Árbol",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -357,11 +379,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Gran foso",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -379,11 +401,55 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Campamento",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Hipopótamos",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cascada",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -407,11 +473,11 @@
 		  "image": "kh1_6_coliseoolimpo",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Entrada",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -430,11 +496,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Portal",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -452,11 +518,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Zona de combate",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -553,11 +619,11 @@
 		  "image": "kh1_8_agrabah",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Casa de Aladdin",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -576,11 +642,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Callejón",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -598,11 +664,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Cabeza de tigre",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -618,7 +684,73 @@
 				  "yrden"
 				]
 			  }
-			}
+			},
+			{
+			  "zona_nombre": "Entrada",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Sala del tesoro",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Sala de la lámpara",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}			
 		  ]
 		},
 		{
@@ -626,12 +758,11 @@
 		  "image": "kh1_9_monstruo",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Vientre 2",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
-			  "image": "bestiary_alphagarkain_654x727",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "vulnerabilities": {
 				"bombs": [
 				  "moon_dust",
@@ -649,11 +780,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Vientre 3",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance. ",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -671,11 +802,33 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Vientre 6",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Vientre 5",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -699,56 +852,11 @@
 		  "image": "kh1_10_atlantica",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
-			  "expansion": "BaW",
-			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
-			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
-			  "image": "bestiary_alphagarkain_654x727",
-			  "vulnerabilities": {
-				"bombs": [
-				  "moon_dust",
-				  "samum"
-				],
-				"oils": [
-				  "vampire"
-				],
-				"potions": [
-				  "black_blood"
-				],
-				"signs": [
-
-				]
-			  }
-			},
-			{
-			  "zona_nombre": "Alp",
-			  "expansion": "BaW",
-			  "intro": "Looked like a bruxa, but that was no bruxa...",
-			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
-			  "image": "bestiary_alp_654x727",
-			  "vulnerabilities": {
-				"bombs": [
-				  "moon_dust"
-				],
-				"oils": [
-				  "vampire"
-				],
-				"potions": [
-				  "black_blood"
-				],
-				"signs": [
-				  "yrden"
-				]
-			  }
-			},
-			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Laberinto",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -772,11 +880,11 @@
 		  "image": "kh1_11_ciudadhalloween",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Laboratorio",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -795,11 +903,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Colina de la luna",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -817,11 +925,33 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Mansión Oogie",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cementerio público",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -918,11 +1048,11 @@
 		  "image": "kh1_13_bastionhueco",
 		  "zonas": [
 			{
-			  "zona_nombre": "Alpha Garkain",
+			  "zona_nombre": "Vestíbulo",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
 			  "image": "bestiary_alphagarkain_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -941,11 +1071,11 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Alp",
+			  "zona_nombre": "Biblioteca",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
 			  "image": "bestiary_alp_654x727",
 			  "vulnerabilities": {
 				"bombs": [
@@ -963,11 +1093,33 @@
 			  }
 			},
 			{
-			  "zona_nombre": "Bruxa",
+			  "zona_nombre": "Acueducto",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
-			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Parada Teleféricos",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
 			  "image": "bestiary_bruxa_654x727",
 			  "vulnerabilities": {
 				"bombs": [
