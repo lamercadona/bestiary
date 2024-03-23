@@ -1,9 +1,9 @@
 	{
 	  "sections": [
 		{
-		  "title": "Isla del destino",
+		  "mundo": "Isla del destino",
 		  "image": "kh1_1_isladeldestino",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Archespore",
 			  "expansion": "BaW",
@@ -139,9 +139,9 @@
 		  ]
 		},
 		{
-		  "title": "Disney",
+		  "mundo": "Disney",
 		  "image": "kh1_2_disney",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Basilisks",
 			  "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
@@ -361,9 +361,9 @@
 		  ]
 		},
 		{
-		  "title": "Ciudad de paso",
+		  "mundo": "Ciudad de paso",
 		  "image": "kh1_3_ciudadpaso",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Arachasae",
 			  "intro": "N'aracche aen woed endicen [Let sleeping arachasae lie].",
@@ -625,9 +625,9 @@
 		  ]
 		},
 		{
-		  "title": "Pais de las maravillas",
+		  "mundo": "Pais de las maravillas",
 		  "image": "kh1_4_paisdelasmaravillas",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -918,9 +918,9 @@
 		  ]
 		},
 		{
-		  "title": "Selva profunda",
+		  "mundo": "Selva profunda",
 		  "image": "kh1_5_selvaprofunda",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -1211,9 +1211,9 @@
 		  ]
 		},
 		{
-		  "title": "Coliseo del olimpo",
+		  "mundo": "Coliseo del olimpo",
 		  "image": "kh1_6_coliseoolimpo",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -1504,9 +1504,9 @@
 		  ]
 		},
 		{
-		  "title": "Bosque de los 100 acres",
+		  "mundo": "Bosque de los 100 acres",
 		  "image": "kh1_7_bosque100acres",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -1797,9 +1797,9 @@
 		  ]
 		},
 		{
-		  "title": "Agrabah",
+		  "mundo": "Agrabah",
 		  "image": "kh1_8_agrabah",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -2090,9 +2090,9 @@
 		  ]
 		},
 		{
-		  "title": "Monstruo",
+		  "mundo": "Monstruo",
 		  "image": "kh1_9_monstruo",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -2383,9 +2383,9 @@
 		  ]
 		},
 		{
-		  "title": "Atlantica",
+		  "mundo": "Atlantica",
 		  "image": "kh1_10_atlantica",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -2676,9 +2676,9 @@
 		  ]
 		},
 		{
-		  "title": "Ciudad de Halloween",
+		  "mundo": "Ciudad de Halloween",
 		  "image": "kh1_11_ciudadhalloween",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -2969,9 +2969,9 @@
 		  ]
 		},
 		{
-		  "title": "País de nunca jamás",
+		  "mundo": "País de nunca jamás",
 		  "image": "kh1_12_paisnuncajamas",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -3262,9 +3262,9 @@
 		  ]
 		},
 		{
-		  "title": "Bastión hueco",
+		  "mundo": "Bastión hueco",
 		  "image": "kh1_13_bastionhueco",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
@@ -3555,9 +3555,9 @@
 		  ]
 		},
 		{
-		  "title": "Fin del mundo",
+		  "mundo": "Fin del mundo",
 		  "image": "kh1_14_finmundo",
-		  "entries": [
+		  "zonas": [
 			{
 			  "title": "Alpha Garkain",
 			  "expansion": "BaW",
