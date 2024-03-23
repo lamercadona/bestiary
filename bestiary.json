@@ -1,925 +1,925 @@
-{
-  "sections": [
-    {
-      "title": "Cursed Ones",
-      "subtitle": "Damned and cursed",
-      "image": "bestiary_cards_cursedones",
-      "entries": [
-        {
-          "title": "Archespore",
-          "expansion": "BaW",
-          "intro": "Looks like a flower to me. A hideous, disgusting flower.",
-          "author": "Blasco Tennerbe, last words",
-          "detail": "Archespores look like gigantic, aesthetically unpleasing flowers with some of the traits of exceptionally cruel and bloodthirsty sundews. They are, however, far more dangerous that even the most colossal sundew. Their peculiar appearance makes them practically impossible to discern amidsts other plants. By the time one draws close enough to realize what they are, it is often too late to flee.\n\nAccording to popular belief, archespores are cursed plants grown in soil fertilized by the blood of the dying. They are most often found in places which in the past saw pogroms, bloody rituals or cruel murders Four types of archespore have been catalogued to date, differing from one another in terms of coloring: brown (the least dangerous), green and purple (the most dangerous). The final variant, said to have been cultivated by mages from Ban Ard, is the yellow archespore, whose strength is similar to that of its green-colored-cousins.\n\nRegardless of color, all archespores fight using similar methods: attacking with powerful, jaw-like leaves. If their victim is out of reach, they can also spray caustic acid which if it makes any contact whatsoever with the skin, can provoke a reaction similar to that caused by severe poisoning.\n\nLike other plants, all archespores are extremely vulnerable to fire, which is one of the most effective methods of fighting them. Silver also works well, as does any sort of shock wave. Archespores do not like strong vibrations, which cause them to flee underground at once. Due to the nature of their origins, oil damaging to cursed beings can also be useful against them.",
-          "image": "bestiary_archespore_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "cursed"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard",
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Berserkers",
-          "intro": "Now finish your soup, or a berserker'll come and swallow ye whole.",
-          "author": "Skellige mother scolding a child.",
-          "detail": "Skellige legends speak of men known as berserkers who transform into bears when overwhelmed by battle rage. In doing so, they lose all self-awareness and are driven by a bloodlust which they must satiate in order to return to human form. Few believe these blood-curdling tales, however, not even in Skellige, where the inhabitants usually treat even the least probable legends with the utmost gravity. This indicates either that berserkers are in fact mere figments of mead-sodden imaginations, or else that they have learned to hide their abilities from the rest of the islanders.\n\nThe skalds' ballads indicate a berserker transformed in the heat of battle cannot be distinguised from a true-born bear. Only minute anatomical details - such as the shape of their tongues and teeth - reveal their secret. Descriptions of their fighting prowess paint them as invulnerable to pain and able to heal any wound received almost at once.\n\nIf these men-turned-bears truly do exist, one can suppose that, like werewolves and lycanthropes, they are particularly vulnerable to oils that harm cursed creatured. But if we are to give credence to ancient songs about these creatures' deeds, about the mass murders and massacres they have committed, we can only hope that no witcher will have to test this hypothesis.",
-          "image": "bestiary_berserkers_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "devils_puffball"
-            ],
-            "oils": [
-              "cursed"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "igni",
-              "quen"
-            ]
-          }
-        },
-        {
-          "title": "Botchlings",
-          "intro": "Saying a botchling's ugly is like saying shit's not particularly tasty: can't say it's a lie, but it doesn't exactly convey the whole truth, either.",
-          "author": "Lambert, witcher of the Wolf School",
-          "detail": "Botchlings are perhaps the most repulsive creatures a witcher will ever have the displeasure of meeting. Born of dead, unwanted babies discarded without a proper burial, their appearance is that of a partially-decayed fetus, their unformed flesh twisted with hate, fear and malice. These hideous creatures feed on the blood of pregnant women, driven by a mad hunger that most often leads to their victim's death.\n\nA botchling will emerge from its lair at night to lurk by the bedside of an expectant mother, draining her strength and that of her unborn progeny as she sleeps. A woman thus beleaguered first suffers from troubling dreams, then fever, delirium and a general weakening of the flesh. After a few such nights she is enfeebled and unable to defend herself - it is then the botchling attacks directly, sinking its long, sharp fangs into her body and drinking her blood until mother and fetus perish together.\n\nA botchling stands around a foot and a half in height, but, when threatened and if gorged with blood, it can change form. At such times it grows into a deformed man, hunched over and striding, ape-like, on its forearms. Stronger and fiercer after this alteration, it hurls itself into direct, physical combat, gnashing at its opponent or attacking him with sharp claws.\n\nA botchling's curse can be lifted by transforming it into a lubberkin - a guardian spirit of the hearth that watches over the family it never knew in the house it never could call home.",
-          "image": "bestiary_botchling_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "cursed"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "axii"
-            ]
-          }
-        },
-        {
-          "title": "The Toad Prince",
-          "expansion": "HoS",
-          "intro": "The girl walked up to the edge of the pond. There, squatting amidst the fragrant lilies and broad lily-pads, she saw a most unusual sight: a small green frog with a golden crown perched on its warty head. Charmed by this curious little creature, the girl picked it up and gave it a kiss. Immediately the little frog transformed into a handsome prince. Overcome with gratitude, he asked the girl to be his wife.",
-          "author": "folk tale, author unknown",
-          "detail": "Timeless tales always carry within them a grain of truth. The legend of the frog prince is no exception, or at least that's what the folk of Oxenfurt wished to believe when they found out a monstrous toad lurked in their city sewers. The women who hunted it in search of romance and a better life, however, found their tales had a most unhappy ending. The creature they encountered was no small, sweet frog but a bloodthirsty beast, who not only did not let them in for a kiss, but instead greedily devoured them and anything else that strayed into its slime-covered lair.",
-          "image": "bestiary_thetoadprince_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Ulfhedinn",
-          "intro": "Ulfhedinn? What's that, some kind of fish?",
-          "author": "Professor Artibus Joannes Rack, geographer, disappeared during a surveying expedition in Skellige",
-          "detail": "Ulfhedinn are a breed of werewolf found mainly in Skellige. The harsh and barren conditions of the isles might explain why they primarily hunt men and are stronger than their continental brethren. Older and particularly dangerous ulfhedinn are called vorefs. Only a few daring warriors in Skellige history have managed to defeat an ulfhedinn, and each of them is commemorated in ballads as a hero to this day.\n\nLike werewolves, ulfhedinn and vorefs are active at night, particularly when the moon is at its fullest. Fast, strong, and amazingly resilient, these creatures kill with disturbing ease. Silver blades should be brought against them, as should Devil's Puffball. Take note that when near death the ulfhedinn becomes particularly dangerous and will attack with doubled fury, while calling on wolves to come to its rescue.",
-          "image": "bestiary_ulfhedinn_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust",
-              "devils_puffball"
-            ],
-            "oils": [
-              "cursed"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Werewolves",
-          "intro": "Wolves aren't as bad as they're made out to be. Werewolves, though – they're every bit as bad and worse.",
-          "author": "Elsa Vilge, archer",
-          "detail": "Werewolves are creatures with both men and wolves inside them. When in beastly form, they take the worst traits of each: the wolf's drive to kill and hunger for raw flesh and the man's cruel and calculating intelligence. A werewolf's condition comes about through a curse, and the transformations happen outside his conscious control. When he reverts to human form, he has no memory of his deeds – otherwise he would surely go mad and take his own life.\n\nWerewolves are active at night, particularly when the moon is full. Though they hunt alone, when threatened they will summon wolves to aid them. Werewolves rarely feel the need to flee, for few adversaries put up much of a fight against them. They strike as swiftly as lightning with claws sharp as razors and regenerate any damage received in mere moments. When fighting werewolves a witcher should wield a blade covered in oil harmful to the cursed and have a large supply of Devil's Puffballs handy.\n\nA werewolf's curse can at times be lifted, yet there is no universal, surefire method for doing this. A witcher seeking to undertake such a task must there equip himself with a great deal of patience – and sturdy armor.",
-          "image": "bestiary_werewolf_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust",
-              "devils_puffball"
-            ],
-            "oils": [
-              "cursed"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Draconids",
-      "subtitle": "The flying predators",
-      "image": "bestiary_cards_draconids",
-      "entries": [
-        {
-          "title": "Basilisks",
-          "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
-          "author": "Gravestone inscription, Vizima cemetery.",
-          "detail": "Contrary to popular belief, basilisks cannot turn anything to stone with their gaze. That is small comfort, however, given that their acid, venom, claws and teeth provide them many other ways to kill.\n\nBasilisks love dark, damp places such as cellars, caves and city sewers. They hunt by day, waiting patiently in hiding for their prey to come, then jump out in a flash to unleash a deadly attack.\n\nWhen preparing to fight such a creature one should drink Golden Oriole, which will provide resistance to its venom, and also prepare Dancing Star or shrapnel bombs, which work particularly well against basilisks.\n\nBasilisk leather is a highly-valued material used to make fashionable shoes and women's handbags. For this reason many men, their courage girded by goldlust, take to hunting them. Most of these hunts end in disaster, but some do manage to bag their prey, which has led to a drastic decline in this creature's numbers in recent years. Some mages and druids are of the opinion that basilisks should be included in programs meant to safeguard dying species. Everyone else thinks those mages and druids have gone completely mad.",
-          "image": "bestiary_basilisk_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Cockatrices",
-          "intro": "Had meself eight heifers, five of 'em milchers. Then this cockatrice sprung up nearby, and now all's I got left's dried patties in an empty field.",
-          "author": "Jethro, peasant from Pindal",
-          "detail": "Foolish superstitions claim cockatrices, like basilisks, can kill with their gaze alone. That is utter nonsense, however, a cockatrice's gaze being no more dangerous than that of an angry goose. One should instead watch out for it's sharp beak and long tail, which it can whip to murderous effect.\n\nCockatrices thrive in dark caves, abandoned ruins, cobwebbed dungeons and old basements. Though small compared to griffins and manticores, they are more than capable of killing anyone who stumbles across them in a dark corridor.\n\nCockatrices do not shun direct fights, in which they strike furiously with wing and tail in an attempt to exhaust their foes. Blows from their beaks are especially dangerous, as they aim with deadly precision at exposed flesh and vital organs and leave bleeding, life-threatening wounds. When fighting them one should make liberal use of draconid oil as well as Grapeshot, whose shrapnel will pierce their delicate wings with ease.",
-          "image": "bestiary_cockatrice_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Forktails",
-          "intro": "Forktails... Bah! Fuckers' tails're more like cleavers.",
-          "author": "Yavinn Buck, veteran of the Mahakaman Volunteer Regiment",
-          "detail": "Forktails owe their quaint name to the long sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two – along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.",
-          "image": "bestiary_forktail_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Royal Wyverns",
-          "intro": "It were huge. And those teeth, ugh! We barely escaped.\n\nWonder if it killed the traders... Whoresons sure had it comin',",
-          "author": "Conversation overheard in Velen",
-          "detail": "A hunter who knows his prey's habits and behavior will rarely return from his hunt empty-handed. To know what forest paths deer are like to trod, to know in what muck boars will wallow, to guess when a hare will emerge from its burrow - that is half the battle.\n\nWhat most men do not know is that some monsters also possess such knowledge. For example, a royal wyvern from Velen had learned the danger of exposing itself to human eyes and arrows by flying high to pick out its prey from afar. Instead, it would lurk by the roadside and wait for military transports. In this way it grew fat on salted pork and beer, expanding until it resembled a dragon more than other, lesser members of its own kind.\n\nThe witcher thus knew this beast would be much stronger and more resilient than a normal wyvern. Even one blow from it could kill - which is why he would need to avoid its charge at all costs. He would also be wise to force it to the ground with his crossbow or a bomb whenever it tried to fly into the air and hurtle down in a deadly dive.\n\nIn the end the witcher slew the hideous creature, though not without some difficulty. Thanks to this feat, the soldiers could once again send shipments of food and equipment needed to conduct the war. Whether that was a good or a bad thing - that is an entirely different matter.",
-          "image": "bestiary_royalwyvern_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Shrieker",
-          "intro": "Heard you have a problem - a monster you call a shrieker?\n\nAye, prowls about, it does. Snatches cows and goats, mostly, but it won't scorn a man if it runs into one.",
-          "author": "Conversation overheard at Crow's Perch",
-          "detail": "The monster tormenting the residents of Crow's Perch turned out to be a particularly nasty cockatrice. Geralt was not surprised the baron's men had been unable to stop it. They could not possibly withstand the surgical precision of its strikes, which slice open arteries and provoke an outpouring of blood only the Swallow potion could hope to stop. Neither did they know to force it to the ground with a crossbow, a bomb or a Sign, and then evade its charge by rolling under the monster's outstretched wing.\n\nJust when it seemed the villagers would have to learn to live in the shadow of a bloodthirsty beast, to always look to the sky with fear, the witcher arrived - and put an end to the shrieker for good.",
-          "image": "bestiary_shrieker_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Silver Basilisk",
-          "expansion": "BaW",
-          "intro": "You want a fine pair of boots, you say? Bring me the hide of a silver basilisk, and I'll make you boots the whole world will envy.",
-          "author": "Anatole Vizholy, shoemaker from Beauclair",
-          "detail": "Geralt always liked looking at things that don't exist. Be it a vampire with a human heart of the last basilisk of a species that no scholar has classified, discovering something thought not to be there to be discovered caused him great pleasure. That is why he took an interest in a contract which, at first glance, seemed banal, but proved to be very intriguing. It concerned the last basilisk of the nearly-extinct species Regulus Platinum.",
-          "image": "bestiary_silverbasilisk_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard",
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Slyzard",
-          "expansion": "BaW",
-          "intro": "Some peasants once offered me a king's ransom to slay a slyzard. A damned hefty purse, chock full o' gold... But I turned 'em down. Coin's no good if you're dead. And a slyzard, that's no fuckin' forktail.",
-          "author": "Zator, one of the Crinfrid Reavers",
-          "detail": "Slyzards are often mistaken for wyverns or forktails. Yet make no mistake: slyzards are nasty, terribly dangerous beasts, and confusing them for wyverns will end very badly for the confuser. While a wyvern can tear apart and devour an untrained man in seconds, only a slyzard can first bake him to a crisp with a waft of fiery breath.\n\nSlyzards are keenly aggressive and attack from both ground and air. Their goal during a fight is to get close enough to their foe to injure it with a breath of fire or knock it down with a sonic blast. Like wyverns, slyzards also attack with venom-spiked tails.\n\nSlyzards like to disengage mid-fight to fly into the air and plummet down at high speed while spewing out balls of fire.\n\nRight before these igneous missiles emerge, you can observe a fiery ball forming in the monster's maw. While airborne, a slyzard can also attack with its claws and teeth.\n\nIt is worthwhile to employ the Aard and Igni Signs to force slyzards to the ground. They are not, however, vulnerable to burning. Before tackling one of them, be sure to coat your blade in draconid oil.",
-          "image": "bestiary_slyzard_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard",
-              "quen"
-            ]
-          }
-        },
-        {
-          "title": "Slyzard Martiarchs",
-          "expansion": "BaW",
-          "intro": "",
-          "author": "",
-          "detail": "If you ever find yourself facing a monster that breathes fire, strikes with a tail tipped with venomous spines, bites with sharp teeth and swipes with even sharper claws and tends to knock its prey to the ground with a sonic blast, then you are fighting a slyzard. With an asernal like that, it comes as no surprise folk often mistake these draconids for dragons. Yet the experts (meaning witchers) know slyzards constitute an entirely seperate species, much smaller than dragons and far less dangerous. With one exception: slyzard females in mating season, or, even worse, just after laying their eggs. When fighing such individuals, my suggestion is to get as far as possible from the danger as quickly as possible, preferably by running, at full tilt, without looking back.",
-          "image": "bestiary_slyzardmatriarch_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard",
-              "quen"
-            ]
-          }
-        },
-        {
-          "title": "The Dragon of Fyresdal",
-          "intro": "It's got scales, wings, claws... A dragon's a dragon! No point gabbin', just go kill it!",
-          "author": "Vagn, village elder of Fyresdal",
-          "detail": "Few truly know what a dragon looks like, for those who have seen one up-close rarely have a chance to share their impressions. That is why people are forever mistaking other monsters for dragons. This was the case in Fyresdal, where the so-called dragon wreaking havoc turned out to be a forktail.\n\nYet this mistaken attribution did not mean there was no reason to worry. The forktail harassing Fyresdal was a particularly vile representative of its kind, one equipped with an endless store of deadly venom. Fighting it without first drinking a regenerative potion or a poison antidote would be tantamount to suicide.\n\nIn his fight with the forktail, Geralt gave proof not only of his masterful swordsmanship, but also of a previously-undemonstrated flair for shepherdry. With a little help from a brave sheep lent by the village elder, he lured the monster into a trap - then ended its life.",
-          "image": "bestiary_thedragonoffyresdal_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        },
-        {
-          "title": "Wyverns",
-          "intro": "Most dangerous of all are the royal wyverns. Or, as they're called in some circles, the royal pains in the arse.",
-          "author": "Albina Tottelkampf, lecturer in natural sciences at Aretuza",
-          "detail": "Wyverns are often mistaken for dragons, and, though they are much smaller than their more famous kin and do not breathe fire, they are likewise extremely dangerous monsters. Especially feared are the so-called royal wyverns who, like their namesake monarchs, are exceptionally ornery and extremely deadly.",
-          "image": "bestiary_wyvern_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "grapeshot"
-            ],
-            "oils": [
-              "draconid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-              "aard"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Insectoids",
-      "subtitle": "Venomous and dangerous",
-      "image": "bestiary_cards_insectoids",
-      "entries": [
-        {
-          "title": "Arachasae",
-          "intro": "N'aracche aen woed endicen [Let sleeping arachasae lie].",
-          "author": "Elven proverb",
-          "detail": "Powerful pincers, a maw filled with razor-sharp teeth and venom glands packed with deadly toxins – these creatures constitute the arachas' deadly arsenal. Since people and farm animals make up an important part of these creatures' diet, contracts on arachasae in turn constitute an important source of witcher coin.\n\nOnce native to the far south, this invasive species migrated north over the course of decades, adjusting as it went to new climates and temperatures. It found damp woodlands and swamps most hospitable and made them its home, making use of the much and moss found there as blankets during its winter hiberation. The arachas hides its unprotected, sack-like abdomen under a covering of hollow tree-trunks worn on its back.\n\nAt first glance, a stationary arachas often looks like a part of the forest undergrowth, a fact it uses to deadly advantage when hunting. It usually begins a battle by spitting venom, then tries to grab its prey with prehensile feelers in order to drag it within reach of its crushing pincers.",
-          "image": "bestiary_arachasae_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Arachnomorphs",
-          "expansion": "HoS",
-          "intro": "The spider shall never lie down with the fly.",
-          "author": "Ofieri proverb",
-          "detail": "A similar saying could gain ground in our land concerning arachnomorphs and everything unable to flee them – meaning most every creature in the world. True, the tillers of the earth and fellers of trees need not fear them in their daily labors, for arachnomorphs, as distant, post-Conjunction cousins of common spiders, strongly prefer deep, dark caves and unfrequented sodden swamps. Anyone who does come across them, however, had best hope his conscience is clear and his worldly affairs are in order, for his life shall soon end, as not even the fastest man in the world can outrun them and only a few witchers can hope to slay them. Even worse are the more aggressive and dangerous kind known as arachnomorph colossi, which are capable of devouring an entire ox in seconds.",
-          "image": "bestiary_arachnomorph_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "aard",
-              "axii"
-            ]
-          }
-        },
-        {
-          "title": "Armored Arachasae",
-          "intro": "That's the kinda john we call an 'armored arachas.' Hard and prickly on the otuside, but get 'im undressed and everything's soft and squishy.",
-          "author": "Foxy Lisa, Maribor prostitute",
-          "detail": "An arachas' only weakness is its soft, sensitive abdomen. Some arachasae hide this under hollow tree stumps, while other, \"armored\" varieties exist which have grown a thick carapace that covers all the more delicate parts of their bodies.\n\nAn armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and this Golden Oriole should always be consumed before fighting it.\n\nIt is also worthwhile to stock up on healing potions and crossbow bolts before setting out, for this arachas' thick plating can withstand a great deal of damage, making battles with it a long and exhausting affair.",
-          "image": "bestiary_armoredarachasae_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Endrega Drones",
-          "intro": "Lazy, good-for-nothing men are sometimes called drones. That's an insult to endrega drones, who at least get off their arses to fight.",
-          "author": "Evelynn Harker, herbalist",
-          "detail": "Endrega males – called 'drones' – are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across.\n\nEndrega drones live but brief lives, the culmination of which comes in the autumn when they fertilize the queen. They pass the time leading to that moment protecting the colony's territory. Weaker drones die in these battles, while the largest and strongest survive. These elect[sic] individuals' genes are passed down to the next generation of endregas, while they themselves are killed after fertilization takes place and their bodies used to feed the hive during the long winter months.\n\nDrones are easy to identify thanks to their distinctive, cone-shaped abdomens. Unlike other endregas they can attack from a distance, sending out volleys of poisoned quills. As with all of their kind, bleeding has no effect on them and insectoid oil does them great harm.",
-          "image": "bestiary_endregadrone_483x419",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Endrega Warriors",
-          "intro": "Scared of these endregas, are you? Just wait till you see the warriors.",
-          "author": "Klaus Altman, forester",
-          "detail": "Endless waves of endrega workers are enough to overcome most attackers, but when confronting more dangerous foes, endrega colonies unleash their larger, stronger members – the so-called warriors. This caste lives only to fight, and gets ample opportunity to do so while defending the colony's borders or conquering new territory.\n\nAn endrega warrior's main weapon is its long tail, which is tipped with a club-like growth and spiked with venomous quils. Powerful abdominal muscles allow it to swing this tail with enough force to kill most lesser opponents in one blow.\n\nEndrega warriors also use their mass and strength as a weapon by charging their opponents in an attempted [sic] to knock them over. As invertebrates with sectioned carapaces, endrega warriors do not bleed profusely, yet recoil in great pain when hit with a blade coated in insectoid oil.",
-          "image": "bestiary_endregawarrior_576x394",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Endrega Workers",
-          "intro": "I thought the workers were harmless. I thought wrong.",
-          "author": "Janne the Gimp, trapper.",
-          "detail": "Workers are the most numerous, and thus the most frequently encountered, caste of endrega. Within the colony their duty lies in building nests and cocoons, acquiring food and caring for eggs and larvae. When threatened they will summon warriors to aid them, yet if forced to defend themselves they will – and do so surprisingly well.\n\nEndrega workers are most often found traveling in groups of half-dozen or more members. They move slowly, yet when attacking, they are capable of covering the distance to their victim in the blink of an eye. Like all of their kind, endrega workers are highly venomous. Their bite is toxic, as are any wounds dealt by the bony growths on the ends of their limbs. They can also spew acid to great effect from a distance of several paces. Their usual tactic is to surround their enemy and attack him from several sides at once. Like all insectoids they do not suffer particularly from bleeding, yet are caused great harm by insectoid oil.",
-          "image": "bestiary_endregaworker_515x415",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Giant Centipedes",
-          "expansion": "BaW",
-          "intro": "Among the fascinating flora and fauna of the duchy of Toussaint, one also encounters creatures of the decidedly unpleasant sort, such as giant centipedes. Not only do these beasts look hideous to the eye, they can do colossal damage to the flesh as well. I decidedly advise against them.",
-          "author": "\"A Visit to Toussaint,\" one of the many guides authored by Peterin Safles",
-          "detail": "Giant centipedes are enormous, insect-like monsters which can be found in many places in the world, but are particularly common in the lands (or more precisely, under the lands) of Toussaint. There they often dwell in close comity with shaelmaars, for a sort of monstrous symbiosis has developed between them: giant centipedes feed on the small creatures which eat Shaelmaar dung.\n\nHard chitinous armor covers nearly the entire body of a giant centipede. Sticking out from under this carapace are rows of hooked limbs. Giant centipedes are able to burrow into the ground with shocking speed, only to then appear back on the surface in another place. Once they select a target, they will circle it determinedly, trying to get close enough to deliver a blow. They attack primarily with their powerful mandibles, but they also possess glands allowing them to spew acid.\n\nThe greatest obstacle when fighting giant centipedes is their thick armor, which deflects most blows not only from weapons, but also from magical means – such as those dealt by simple spells or witcher Signs.\n\nWhen attacked with a weapon, they will often parry the strike, then quickly reply with their own forceful counter. Thus the best method for fighting them is to chatch them in an Yrden trap, keeping them from protecting themselves with their armor or burrowing into the ground.",
-          "image": "bestiary_giantcentipede_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Harrisi",
-          "intro": "It attacked us... Gods, I dunno what it were, but 'twere at least four spans high!",
-          "author": "Velen peasant woman",
-          "detail": "Velen's woods and bogs brim with monsters. This fact is well known, and thus when the war drove refugees into this hostile land, certain of their number thought to avoid the dangers of the lowlands by hiding in an abandoned mine. They were in for an unfortunate surprise. The shaft they chose for their sanctuary was inhabited by a poisonous arachas - a merciless and bloodthirsty monster.\n\nThe witcher knew he was in for a tough fight. The arachas had dwelled in the mine for years and had grown large and particularly strong and resilient in that time. Like other members of its vile species, it would be dangerous both at close quarters and at a distance. What's more, it was almost certainly venomous - he would need to imbibe Swallow or Golden Oriole (or both) before attacking if he was to stand a chance of surviving. As a small consolation, the witcher knew the monster would be vulnerable to his Signs - especially Igni, Aard and Yrden - as well as to the Northern Wind bomb.\n\nThe witcher arrived at the cave too late to save the refugees - but he could still avenge their fate. He slew the powerful arachas and destroyed the eggs bearing its vile offspring.",
-          "image": "bestiary_harrisi_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        },
-        {
-          "title": "Kikimore Warrior",
-          "expansion": "BaW",
-          "intro": "Then the kikimore princess summoned all her loyal sisters and off they went! Together they charged the enemy trying to harm their queen.",
-          "author": "\"The Kikimore Princess and the Mountain Giants\"\n\nCornelius Briggs (dwarven children's fable, fragment)",
-          "detail": "It is unknown how exactly it is kikimores communicate with each other. Autopsies are hampered by the high toxicity of their subjects. Scholars have established that kikimores do not seem to possess any detectable auricles. One amateur researcher, Count di Salvaress, put forth a theory in his treatise \"A Microscope Among Monsters\" suggesting kikimores have a highly developed sense of smell and use airborne particles undetectable to humans to transmit information. This theory has yet to be proved or disproved.\n\nKikimore warriors defend their nests from attackers. They attack somewhat slower than kikimore workers. They are able to spew streams of caustic venom a great distance and leap to attack. This venom is highly unique in that it reacts with a witcher's body to raise the level of his potion toxicity. They are covered with thick, hard armor which easily deflects blows from even the sharpest sword.\n\nKikimore warriors are protected by swarms of workers which obey their orders until they are themselves eradicated.\n\nThey are completely immune to the effects of the Axii Sign, but vulnerable to Igni, oils and bombs harming insectoids and blows dealt by a silver sword.",
-          "image": "bestiary_kikimorewarrior_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "white_honey"
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Kikimore Workers",
-          "expansion": "BaW",
-          "intro": "The old fool came home all black and blue, claiming kikimores had attacked him in the woods. Who does he take me for?! His mates worked him over because he'd cheated at gwent. If it'd been kikimores, he'd be dead. And I'd have peace at last.",
-          "author": "Lavinia, wife of a Beauclair innkeeper",
-          "detail": "Kikimores form colonies, making them similar to communal insects such as ants. A kikimore colony is ruled by a queen and organized into something of a social hierarchy. Kikimore workers take care of hunting food and bringing it back to the nest, while kikimore warriors defend the nest against attackers.\n\nA worker on its own can be easily killed by even a weak person or a child. It is rare indeed, however, to come across an isolated individual, for kikimore workers usual move in groups of a few to a dozen or so members. The only defense against a swarm of kikimores available to a normal person is to flee. And not even that is guaranteed to work.\n\nKikimore workers listen to orders given by kikimore warriors. On command, a swarm of workers might begin burrowing tunnels near potential prey to allow for a surprise mass attack. Eliminate the warrior guiding a swarm, however, and the workers will disperse and cease digging.\n\nKikimore workers are nimbler and quicker than warrriors.\n\nThey show complete immunity to the Axii Sign, and when they dig tunnels, they are invulnerable to all the other Signs as well. Poison also does them no harm.\n\nA good method for fighting them is to use the Igni Sign as well as oils and bombs meant to damage insectoids.",
-          "image": "bestiary_kikimoreworker_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "white_honey"
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Pale Widows",
-          "expansion": "BaW",
-          "intro": "Never have I seen such a creature! It was like a giant centipede, but white, utterly white!",
-          "author": "Account of Doctor Vittorius de la Vega after the first encounter with the Pale Widow",
-          "detail": "This rare variety of giant centipede dwells in underground lairs and owes its name to its unusual, pale white coloring. Like the more common giant centipede, its body is covered in hard chitinous armor, with numerous hooked limbs sticking out from underneath. Some scholars raise these creatures in laboratory conditions for the properties of their albumen, which makes an excellent base for the brewing of mutagenic potions.",
-          "image": "bestiary_palewidow_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-
-            ],
-            "signs": [
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Venomous arachasae",
-          "intro": "Barley nicked me, I'll be fine.",
-          "author": "Last words of an unknown hunter",
-          "detail": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances.\n\nVenomous arachasae produce colossal amounts of this toxin and deploy it during combat in many ways. Before striking a venomous arachas will cover its pincers and teeth with a thick coating of the deadly liquid. It will then squirt the venom at its opponent to weaken it, and once locked in direct combat, will continue spraying the noxious ooze all around itself, meaning every breath brings its victim closer to death. Like other members of this species, venomous arachasae use prehensile feelers to grab and immobilize their prey. When attempting to fight such a creature a witcher should drink Golden Oriole, which will reduce his body's vulnerabilities to poison, and then attack from a safe distance with crossbow or bombs before dealing the finishing blows with a silver sword enhanced with a coating of insectoid oil.",
-          "image": "bestiary_venomousarachas_654x727",
-          "vulnerabilities": {
-            "bombs": [
-
-            ],
-            "oils": [
-              "insectoid"
-            ],
-            "potions": [
-              "golden_oriole"
-            ],
-            "signs": [
-
-            ]
-          }
-        }
-      ]
-    },
 	{
-      "title": "Vampires",
-      "subtitle": "The vampire alights",
-      "image": "bestiary_cards_vampires",
-      "entries": [
-        {
-          "title": "Alpha Garkain",
-          "expansion": "BaW",
-          "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
-          "author": "Agnes of Myrkvid, druid flaminica and scholar.",
-          "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
-          "image": "bestiary_alphagarkain_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust",
-              "samum"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
+	  "sections": [
+		{
+		  "title": "Isla del destino",
+		  "subtitle": "Damned and cursed",
+		  "image": "kh1_1_isladeldestino",
+		  "entries": [
+			{
+			  "title": "Archespore",
+			  "expansion": "BaW",
+			  "intro": "Looks like a flower to me. A hideous, disgusting flower.",
+			  "author": "Blasco Tennerbe, last words",
+			  "detail": "Archespores look like gigantic, aesthetically unpleasing flowers with some of the traits of exceptionally cruel and bloodthirsty sundews. They are, however, far more dangerous that even the most colossal sundew. Their peculiar appearance makes them practically impossible to discern amidsts other plants. By the time one draws close enough to realize what they are, it is often too late to flee.\n\nAccording to popular belief, archespores are cursed plants grown in soil fertilized by the blood of the dying. They are most often found in places which in the past saw pogroms, bloody rituals or cruel murders Four types of archespore have been catalogued to date, differing from one another in terms of coloring: brown (the least dangerous), green and purple (the most dangerous). The final variant, said to have been cultivated by mages from Ban Ard, is the yellow archespore, whose strength is similar to that of its green-colored-cousins.\n\nRegardless of color, all archespores fight using similar methods: attacking with powerful, jaw-like leaves. If their victim is out of reach, they can also spray caustic acid which if it makes any contact whatsoever with the skin, can provoke a reaction similar to that caused by severe poisoning.\n\nLike other plants, all archespores are extremely vulnerable to fire, which is one of the most effective methods of fighting them. Silver also works well, as does any sort of shock wave. Archespores do not like strong vibrations, which cause them to flee underground at once. Due to the nature of their origins, oil damaging to cursed beings can also be useful against them.",
+			  "image": "bestiary_archespore_654x727",
+			  "vulnerabilities": {
+				"bombs": [
 
-            ]
-          }
-        },
-        {
-          "title": "Alp",
-          "expansion": "BaW",
-          "intro": "Looked like a bruxa, but that was no bruxa...",
-          "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
-          "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
-          "image": "bestiary_alp_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Bruxa",
-          "expansion": "BaW",
-          "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
-          "author": "anonymous piece of advice",
-          "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
-          "image": "bestiary_bruxa_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Dettlaff van der Eretein",
-          "expansion": "BaW",
-          "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
-          "author": "a witness to Dettlaff's attacks",
-          "detail": "Dettlaff is a higher vampire and one of the most terrifying creatures the world has ever known. Some vampires of his sort live among men easily and inconspicuously, sometimes even gaining the respect and admiration of their community. Yet even the most civilized vampire can be incredibly dangerous if provoked, and Dettlaff... Dettlaff was far from civilized.\n\nWhen in his two-legged form, Dettlaff strikes in surprising and unique ways, so one must be extremely alert and attentive. His razor-sharp claws, wielded with great strength and precision, are his chief weapons, yet he can also wield weapons of human devising with extraordinary skill.\n\nLike all higher vampires, Dettlaff can turn into fog and envelop opponents. When fighting a vampire in this form, one must watch out for magic puddles and attacks from the air. When wounded, Dettlaff tends to assume his winged form, using these powerful appendages to stun his foes near effortlessly.\n\nOne must remember higher vampires are immortal creatures and thus do not fear for their lives while fighting, meaning they take every risk. They are able to turn invisible and can regenerate strength during combat. All in all, they are supremely difficult foes, even for a witcher.",
-          "image": "bestiary_dettlaffvandereretein_654x727",
-          "vulnerabilities": {
-            "bombs": [
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
 
-            ],
-            "oils": [
+				],
+				"signs": [
+				  "aard",
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Berserkers",
+			  "intro": "Now finish your soup, or a berserker'll come and swallow ye whole.",
+			  "author": "Skellige mother scolding a child.",
+			  "detail": "Skellige legends speak of men known as berserkers who transform into bears when overwhelmed by battle rage. In doing so, they lose all self-awareness and are driven by a bloodlust which they must satiate in order to return to human form. Few believe these blood-curdling tales, however, not even in Skellige, where the inhabitants usually treat even the least probable legends with the utmost gravity. This indicates either that berserkers are in fact mere figments of mead-sodden imaginations, or else that they have learned to hide their abilities from the rest of the islanders.\n\nThe skalds' ballads indicate a berserker transformed in the heat of battle cannot be distinguised from a true-born bear. Only minute anatomical details - such as the shape of their tongues and teeth - reveal their secret. Descriptions of their fighting prowess paint them as invulnerable to pain and able to heal any wound received almost at once.\n\nIf these men-turned-bears truly do exist, one can suppose that, like werewolves and lycanthropes, they are particularly vulnerable to oils that harm cursed creatured. But if we are to give credence to ancient songs about these creatures' deeds, about the mass murders and massacres they have committed, we can only hope that no witcher will have to test this hypothesis.",
+			  "image": "bestiary_berserkers_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball"
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
 
-            ],
-            "potions": [
+				],
+				"signs": [
+				  "igni",
+				  "quen"
+				]
+			  }
+			},
+			{
+			  "title": "Botchlings",
+			  "intro": "Saying a botchling's ugly is like saying shit's not particularly tasty: can't say it's a lie, but it doesn't exactly convey the whole truth, either.",
+			  "author": "Lambert, witcher of the Wolf School",
+			  "detail": "Botchlings are perhaps the most repulsive creatures a witcher will ever have the displeasure of meeting. Born of dead, unwanted babies discarded without a proper burial, their appearance is that of a partially-decayed fetus, their unformed flesh twisted with hate, fear and malice. These hideous creatures feed on the blood of pregnant women, driven by a mad hunger that most often leads to their victim's death.\n\nA botchling will emerge from its lair at night to lurk by the bedside of an expectant mother, draining her strength and that of her unborn progeny as she sleeps. A woman thus beleaguered first suffers from troubling dreams, then fever, delirium and a general weakening of the flesh. After a few such nights she is enfeebled and unable to defend herself - it is then the botchling attacks directly, sinking its long, sharp fangs into her body and drinking her blood until mother and fetus perish together.\n\nA botchling stands around a foot and a half in height, but, when threatened and if gorged with blood, it can change form. At such times it grows into a deformed man, hunched over and striding, ape-like, on its forearms. Stronger and fiercer after this alteration, it hurls itself into direct, physical combat, gnashing at its opponent or attacking him with sharp claws.\n\nA botchling's curse can be lifted by transforming it into a lubberkin - a guardian spirit of the hearth that watches over the family it never knew in the house it never could call home.",
+			  "image": "bestiary_botchling_654x727",
+			  "vulnerabilities": {
+				"bombs": [
 
-            ],
-            "signs": [
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
 
-            ]
-          }
-        },
-        {
-          "title": "Ekimmara",
-          "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
-          "author": "Anonymous city guardsman's last words",
-          "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
-          "image": "bestiary_ekimmara_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "devils_puffball"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
+				],
+				"signs": [
+				  "axii"
+				]
+			  }
+			},
+			{
+			  "title": "The Toad Prince",
+			  "expansion": "HoS",
+			  "intro": "The girl walked up to the edge of the pond. There, squatting amidst the fragrant lilies and broad lily-pads, she saw a most unusual sight: a small green frog with a golden crown perched on its warty head. Charmed by this curious little creature, the girl picked it up and gave it a kiss. Immediately the little frog transformed into a handsome prince. Overcome with gratitude, he asked the girl to be his wife.",
+			  "author": "folk tale, author unknown",
+			  "detail": "Timeless tales always carry within them a grain of truth. The legend of the frog prince is no exception, or at least that's what the folk of Oxenfurt wished to believe when they found out a monstrous toad lurked in their city sewers. The women who hunted it in search of romance and a better life, however, found their tales had a most unhappy ending. The creature they encountered was no small, sweet frog but a bloodthirsty beast, who not only did not let them in for a kiss, but instead greedily devoured them and anything else that strayed into its slime-covered lair.",
+			  "image": "bestiary_thetoadprince_654x727",
+			  "vulnerabilities": {
+				"bombs": [
 
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Fleder",
-          "expansion": "BaW",
-          "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
-          "author": "fragment of a Toussaint Ducal Guard report",
-          "detail": "Fleders are classified as lesser vampires. Though weaker than the rest of their ilk in every aspect from the physiomagic to they physiognomic, they should not be underestimated – for they are very, very dangerous. Fleders cannot be mistaken for any other creature, with their wide, toothy jaws, flat, unpleasant faces and completely hairless, often warty bodies. These vampires mainly fight with their teeth and claws, flailing them blindly and not stopping even when their victim is already dead. Even a solitary fleder is strong enough to take down a trained soldier.\n\nCompared to other vampires, fleders display meager intelligence, seen most clearly in the mindless rage which causes them to try with all their might to attack and tear to shreds any weaker being.\n\nWhen fighting fleders, it is best to take advantage of their particular method of movement. These creatures do not run, but they do try to catch their prey and knock it over by leaping. Knowing this behavior, one can plan the fight appropriately and not let oneself be caught by surprise.\n\nThey are vulnerable to vampire oil as well as Black Blood.",
-          "image": "bestiary_fleder_654x727",
-          "vulnerabilities": {
-            "bombs": [
+				],
+				"oils": [
 
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
+				],
+				"potions": [
 
-            ]
-          }
-        },
-        {
-          "title": "Gael",
-          "intro": "Vampire bites... and the strong stench of alcohol.",
-          "author": "Geralt of Rivia",
-          "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
-          "image": "bestiary_gael_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "devils_puffball",
-              "moon_dust"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
+				],
+				"signs": [
 
-            ],
-            "signs": [
-              "igni",
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Garkain",
-          "expansion": "BaW",
-          "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
-          "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
-          "detail": "Garkains, like fleders, belong to the class of particularly dangerous vampires whose strength exceeds even that of fiends. An encounter with one of their number almost always ends in death, which is why there are not many eye-witness accounts of them. From the city guard reports written up in Lan Exeter describing the attacks committed in that city in 1104 by three garkains (later killed by a certain Olivier of Gulet, witcher), it seems these horrible monsters do not content themselves with drinking the blood of their victims. The investigators concluded from the blood and guts strewn around the crime scenes that garkains tear their victims to shreds with great delight and muck about in their bloody entrails.\n\nGarkains belong to the group of creatures known as lesser vampires. They often gather around themselves members of other subspecies of lesser vampires, acting in such situations as leaders of the pack. They are by and large unable to run, but can jump a great distance and often attack their prey in that way. During combat, they usually keep their distance from their foes, trying to incapacitate them using a blast of mental energy provoking visions that beguile and disorient.\n\nBefore grappling a garkain, one should drink the Black Blood potion and stock up on vampire oil. It should also be remembered that the Samum and Moon Dust bombs are always effective weapons against any mental attacks.",
-          "image": "bestiary_garkain_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust",
-              "samum"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
+				]
+			  }
+			},
+			{
+			  "title": "Ulfhedinn",
+			  "intro": "Ulfhedinn? What's that, some kind of fish?",
+			  "author": "Professor Artibus Joannes Rack, geographer, disappeared during a surveying expedition in Skellige",
+			  "detail": "Ulfhedinn are a breed of werewolf found mainly in Skellige. The harsh and barren conditions of the isles might explain why they primarily hunt men and are stronger than their continental brethren. Older and particularly dangerous ulfhedinn are called vorefs. Only a few daring warriors in Skellige history have managed to defeat an ulfhedinn, and each of them is commemorated in ballads as a hero to this day.\n\nLike werewolves, ulfhedinn and vorefs are active at night, particularly when the moon is at its fullest. Fast, strong, and amazingly resilient, these creatures kill with disturbing ease. Silver blades should be brought against them, as should Devil's Puffball. Take note that when near death the ulfhedinn becomes particularly dangerous and will attack with doubled fury, while calling on wolves to come to its rescue.",
+			  "image": "bestiary_ulfhedinn_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "devils_puffball"
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
 
-            ]
-          }
-        },
-        {
-          "title": "Higher Vampire",
-          "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
-          "author": "Emiel Regis, higher vampire",
-          "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
-          "image": "bestiary_highervampire_654x727",
-          "vulnerabilities": {
-            "bombs": [
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Werewolves",
+			  "intro": "Wolves aren't as bad as they're made out to be. Werewolves, though – they're every bit as bad and worse.",
+			  "author": "Elsa Vilge, archer",
+			  "detail": "Werewolves are creatures with both men and wolves inside them. When in beastly form, they take the worst traits of each: the wolf's drive to kill and hunger for raw flesh and the man's cruel and calculating intelligence. A werewolf's condition comes about through a curse, and the transformations happen outside his conscious control. When he reverts to human form, he has no memory of his deeds – otherwise he would surely go mad and take his own life.\n\nWerewolves are active at night, particularly when the moon is full. Though they hunt alone, when threatened they will summon wolves to aid them. Werewolves rarely feel the need to flee, for few adversaries put up much of a fight against them. They strike as swiftly as lightning with claws sharp as razors and regenerate any damage received in mere moments. When fighting werewolves a witcher should wield a blade covered in oil harmful to the cursed and have a large supply of Devil's Puffballs handy.\n\nA werewolf's curse can at times be lifted, yet there is no universal, surefire method for doing this. A witcher seeking to undertake such a task must there equip himself with a great deal of patience – and sturdy armor.",
+			  "image": "bestiary_werewolf_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "devils_puffball"
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
 
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "title": "Disney",
+		  "subtitle": "The flying predators",
+		  "image": "kh1_2_disney",
+		  "entries": [
+			{
+			  "title": "Basilisks",
+			  "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
+			  "author": "Gravestone inscription, Vizima cemetery.",
+			  "detail": "Contrary to popular belief, basilisks cannot turn anything to stone with their gaze. That is small comfort, however, given that their acid, venom, claws and teeth provide them many other ways to kill.\n\nBasilisks love dark, damp places such as cellars, caves and city sewers. They hunt by day, waiting patiently in hiding for their prey to come, then jump out in a flash to unleash a deadly attack.\n\nWhen preparing to fight such a creature one should drink Golden Oriole, which will provide resistance to its venom, and also prepare Dancing Star or shrapnel bombs, which work particularly well against basilisks.\n\nBasilisk leather is a highly-valued material used to make fashionable shoes and women's handbags. For this reason many men, their courage girded by goldlust, take to hunting them. Most of these hunts end in disaster, but some do manage to bag their prey, which has led to a drastic decline in this creature's numbers in recent years. Some mages and druids are of the opinion that basilisks should be included in programs meant to safeguard dying species. Everyone else thinks those mages and druids have gone completely mad.",
+			  "image": "bestiary_basilisk_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Cockatrices",
+			  "intro": "Had meself eight heifers, five of 'em milchers. Then this cockatrice sprung up nearby, and now all's I got left's dried patties in an empty field.",
+			  "author": "Jethro, peasant from Pindal",
+			  "detail": "Foolish superstitions claim cockatrices, like basilisks, can kill with their gaze alone. That is utter nonsense, however, a cockatrice's gaze being no more dangerous than that of an angry goose. One should instead watch out for it's sharp beak and long tail, which it can whip to murderous effect.\n\nCockatrices thrive in dark caves, abandoned ruins, cobwebbed dungeons and old basements. Though small compared to griffins and manticores, they are more than capable of killing anyone who stumbles across them in a dark corridor.\n\nCockatrices do not shun direct fights, in which they strike furiously with wing and tail in an attempt to exhaust their foes. Blows from their beaks are especially dangerous, as they aim with deadly precision at exposed flesh and vital organs and leave bleeding, life-threatening wounds. When fighting them one should make liberal use of draconid oil as well as Grapeshot, whose shrapnel will pierce their delicate wings with ease.",
+			  "image": "bestiary_cockatrice_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
 
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "Katakan",
-          "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
-          "author": "fragment of a prayer",
-          "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
-          "image": "bestiary_katakan_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "devils_puffball",
-              "moon_dust"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Forktails",
+			  "intro": "Forktails... Bah! Fuckers' tails're more like cleavers.",
+			  "author": "Yavinn Buck, veteran of the Mahakaman Volunteer Regiment",
+			  "detail": "Forktails owe their quaint name to the long sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two – along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.",
+			  "image": "bestiary_forktail_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Royal Wyverns",
+			  "intro": "It were huge. And those teeth, ugh! We barely escaped.\n\nWonder if it killed the traders... Whoresons sure had it comin',",
+			  "author": "Conversation overheard in Velen",
+			  "detail": "A hunter who knows his prey's habits and behavior will rarely return from his hunt empty-handed. To know what forest paths deer are like to trod, to know in what muck boars will wallow, to guess when a hare will emerge from its burrow - that is half the battle.\n\nWhat most men do not know is that some monsters also possess such knowledge. For example, a royal wyvern from Velen had learned the danger of exposing itself to human eyes and arrows by flying high to pick out its prey from afar. Instead, it would lurk by the roadside and wait for military transports. In this way it grew fat on salted pork and beer, expanding until it resembled a dragon more than other, lesser members of its own kind.\n\nThe witcher thus knew this beast would be much stronger and more resilient than a normal wyvern. Even one blow from it could kill - which is why he would need to avoid its charge at all costs. He would also be wise to force it to the ground with his crossbow or a bomb whenever it tried to fly into the air and hurtle down in a deadly dive.\n\nIn the end the witcher slew the hideous creature, though not without some difficulty. Thanks to this feat, the soldiers could once again send shipments of food and equipment needed to conduct the war. Whether that was a good or a bad thing - that is an entirely different matter.",
+			  "image": "bestiary_royalwyvern_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Shrieker",
+			  "intro": "Heard you have a problem - a monster you call a shrieker?\n\nAye, prowls about, it does. Snatches cows and goats, mostly, but it won't scorn a man if it runs into one.",
+			  "author": "Conversation overheard at Crow's Perch",
+			  "detail": "The monster tormenting the residents of Crow's Perch turned out to be a particularly nasty cockatrice. Geralt was not surprised the baron's men had been unable to stop it. They could not possibly withstand the surgical precision of its strikes, which slice open arteries and provoke an outpouring of blood only the Swallow potion could hope to stop. Neither did they know to force it to the ground with a crossbow, a bomb or a Sign, and then evade its charge by rolling under the monster's outstretched wing.\n\nJust when it seemed the villagers would have to learn to live in the shadow of a bloodthirsty beast, to always look to the sky with fear, the witcher arrived - and put an end to the shrieker for good.",
+			  "image": "bestiary_shrieker_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
 
-            ],
-            "signs": [
-              "igni",
-              "yrden"
-            ]
-          }
-        },
-        {
-          "title": "Protofleder",
-          "expansion": "BaW",
-          "intro": "Never seen a vampire like that in my life.",
-          "author": "Geralt of Rivia, witcher",
-          "detail": "Protofleders are relatives of fleders which came from the world of the higher vampires to our own during the Conjunction of the Spheres.\n\nThe members of this species are characterized by their considerable strength and agility as well as the strange glow they emit, a trait most likely tied to their otherworldly nature. Protofleders have never had significant contact with the outside world, having spent their entire time on our planet in the Unseen Elder's cave, whose atmosphere is very similar to that of their home world.",
-          "image": "bestiary_protofleder_654x727",
-          "vulnerabilities": {
-            "bombs": [
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Silver Basilisk",
+			  "expansion": "BaW",
+			  "intro": "You want a fine pair of boots, you say? Bring me the hide of a silver basilisk, and I'll make you boots the whole world will envy.",
+			  "author": "Anatole Vizholy, shoemaker from Beauclair",
+			  "detail": "Geralt always liked looking at things that don't exist. Be it a vampire with a human heart of the last basilisk of a species that no scholar has classified, discovering something thought not to be there to be discovered caused him great pleasure. That is why he took an interest in a contract which, at first glance, seemed banal, but proved to be very intriguing. It concerned the last basilisk of the nearly-extinct species Regulus Platinum.",
+			  "image": "bestiary_silverbasilisk_654x727",
+			  "vulnerabilities": {
+				"bombs": [
 
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard",
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Slyzard",
+			  "expansion": "BaW",
+			  "intro": "Some peasants once offered me a king's ransom to slay a slyzard. A damned hefty purse, chock full o' gold... But I turned 'em down. Coin's no good if you're dead. And a slyzard, that's no fuckin' forktail.",
+			  "author": "Zator, one of the Crinfrid Reavers",
+			  "detail": "Slyzards are often mistaken for wyverns or forktails. Yet make no mistake: slyzards are nasty, terribly dangerous beasts, and confusing them for wyverns will end very badly for the confuser. While a wyvern can tear apart and devour an untrained man in seconds, only a slyzard can first bake him to a crisp with a waft of fiery breath.\n\nSlyzards are keenly aggressive and attack from both ground and air. Their goal during a fight is to get close enough to their foe to injure it with a breath of fire or knock it down with a sonic blast. Like wyverns, slyzards also attack with venom-spiked tails.\n\nSlyzards like to disengage mid-fight to fly into the air and plummet down at high speed while spewing out balls of fire.\n\nRight before these igneous missiles emerge, you can observe a fiery ball forming in the monster's maw. While airborne, a slyzard can also attack with its claws and teeth.\n\nIt is worthwhile to employ the Aard and Igni Signs to force slyzards to the ground. They are not, however, vulnerable to burning. Before tackling one of them, be sure to coat your blade in draconid oil.",
+			  "image": "bestiary_slyzard_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
 
-            ]
-          }
-        },
-        {
-          "title": "Sarasti",
-          "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
-          "author": "Bytomir of Velen",
-          "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
-          "image": "bestiary_sarasti_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "devils_puffball"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
+				],
+				"signs": [
+				  "aard",
+				  "quen"
+				]
+			  }
+			},
+			{
+			  "title": "Slyzard Martiarchs",
+			  "expansion": "BaW",
+			  "intro": "",
+			  "author": "",
+			  "detail": "If you ever find yourself facing a monster that breathes fire, strikes with a tail tipped with venomous spines, bites with sharp teeth and swipes with even sharper claws and tends to knock its prey to the ground with a sonic blast, then you are fighting a slyzard. With an asernal like that, it comes as no surprise folk often mistake these draconids for dragons. Yet the experts (meaning witchers) know slyzards constitute an entirely seperate species, much smaller than dragons and far less dangerous. With one exception: slyzard females in mating season, or, even worse, just after laying their eggs. When fighing such individuals, my suggestion is to get as far as possible from the danger as quickly as possible, preferably by running, at full tilt, without looking back.",
+			  "image": "bestiary_slyzardmatriarch_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
 
-            ],
-            "signs": [
-              "igni"
-            ]
-          }
-        },
-        {
-          "title": "The Bruxa of Corvo Bianco",
-          "expansion": "BaW",
-          "intro": "",
-          "author": "",
-          "detail": "The bruxa Geralt encountered and killed in self-defense at Corvo Bianco differed from other creatures of this sort. Firstly, it was more intelligent, capable even of articulating words in human language without much difficulty. What's more, this bruxa was tied to the Beast, the mysterious murderer prowling Beauclair at the time.\n\nFighting it presented Geralt with quite the challenge. Like other bruxae, this one possessed strength and speed far above that of any human, could turn invisible and could attack using a sonic wave.\n\nAs is typical for all vampires, it sought to suck its victim's blood. This meant the usual defense against those creatures, the Black Blood potion, was an effective weapon against it, as were the Moon Dust bomb and, naturally, the witcher's trusty silver blade.",
-          "image": "bestiary_thebruxaofcorvobianco_654x727",
-          "vulnerabilities": {
-            "bombs": [
-              "moon_dust"
-            ],
-            "oils": [
-              "vampire"
-            ],
-            "potions": [
-              "black_blood"
-            ],
-            "signs": [
-              "yrden"
-            ]
-          }
-        }
-      ]
-    }
-  ]
-}
+				],
+				"signs": [
+				  "aard",
+				  "quen"
+				]
+			  }
+			},
+			{
+			  "title": "The Dragon of Fyresdal",
+			  "intro": "It's got scales, wings, claws... A dragon's a dragon! No point gabbin', just go kill it!",
+			  "author": "Vagn, village elder of Fyresdal",
+			  "detail": "Few truly know what a dragon looks like, for those who have seen one up-close rarely have a chance to share their impressions. That is why people are forever mistaking other monsters for dragons. This was the case in Fyresdal, where the so-called dragon wreaking havoc turned out to be a forktail.\n\nYet this mistaken attribution did not mean there was no reason to worry. The forktail harassing Fyresdal was a particularly vile representative of its kind, one equipped with an endless store of deadly venom. Fighting it without first drinking a regenerative potion or a poison antidote would be tantamount to suicide.\n\nIn his fight with the forktail, Geralt gave proof not only of his masterful swordsmanship, but also of a previously-undemonstrated flair for shepherdry. With a little help from a brave sheep lent by the village elder, he lured the monster into a trap - then ended its life.",
+			  "image": "bestiary_thedragonoffyresdal_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "title": "Wyverns",
+			  "intro": "Most dangerous of all are the royal wyverns. Or, as they're called in some circles, the royal pains in the arse.",
+			  "author": "Albina Tottelkampf, lecturer in natural sciences at Aretuza",
+			  "detail": "Wyverns are often mistaken for dragons, and, though they are much smaller than their more famous kin and do not breathe fire, they are likewise extremely dangerous monsters. Especially feared are the so-called royal wyverns who, like their namesake monarchs, are exceptionally ornery and extremely deadly.",
+			  "image": "bestiary_wyvern_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "title": "Ciudad de paso",
+		  "subtitle": "Venomous and dangerous",
+		  "image": "kh1_3_ciudadpaso",
+		  "entries": [
+			{
+			  "title": "Arachasae",
+			  "intro": "N'aracche aen woed endicen [Let sleeping arachasae lie].",
+			  "author": "Elven proverb",
+			  "detail": "Powerful pincers, a maw filled with razor-sharp teeth and venom glands packed with deadly toxins – these creatures constitute the arachas' deadly arsenal. Since people and farm animals make up an important part of these creatures' diet, contracts on arachasae in turn constitute an important source of witcher coin.\n\nOnce native to the far south, this invasive species migrated north over the course of decades, adjusting as it went to new climates and temperatures. It found damp woodlands and swamps most hospitable and made them its home, making use of the much and moss found there as blankets during its winter hiberation. The arachas hides its unprotected, sack-like abdomen under a covering of hollow tree-trunks worn on its back.\n\nAt first glance, a stationary arachas often looks like a part of the forest undergrowth, a fact it uses to deadly advantage when hunting. It usually begins a battle by spitting venom, then tries to grab its prey with prehensile feelers in order to drag it within reach of its crushing pincers.",
+			  "image": "bestiary_arachasae_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Arachnomorphs",
+			  "expansion": "HoS",
+			  "intro": "The spider shall never lie down with the fly.",
+			  "author": "Ofieri proverb",
+			  "detail": "A similar saying could gain ground in our land concerning arachnomorphs and everything unable to flee them – meaning most every creature in the world. True, the tillers of the earth and fellers of trees need not fear them in their daily labors, for arachnomorphs, as distant, post-Conjunction cousins of common spiders, strongly prefer deep, dark caves and unfrequented sodden swamps. Anyone who does come across them, however, had best hope his conscience is clear and his worldly affairs are in order, for his life shall soon end, as not even the fastest man in the world can outrun them and only a few witchers can hope to slay them. Even worse are the more aggressive and dangerous kind known as arachnomorph colossi, which are capable of devouring an entire ox in seconds.",
+			  "image": "bestiary_arachnomorph_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "aard",
+				  "axii"
+				]
+			  }
+			},
+			{
+			  "title": "Armored Arachasae",
+			  "intro": "That's the kinda john we call an 'armored arachas.' Hard and prickly on the otuside, but get 'im undressed and everything's soft and squishy.",
+			  "author": "Foxy Lisa, Maribor prostitute",
+			  "detail": "An arachas' only weakness is its soft, sensitive abdomen. Some arachasae hide this under hollow tree stumps, while other, \"armored\" varieties exist which have grown a thick carapace that covers all the more delicate parts of their bodies.\n\nAn armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and this Golden Oriole should always be consumed before fighting it.\n\nIt is also worthwhile to stock up on healing potions and crossbow bolts before setting out, for this arachas' thick plating can withstand a great deal of damage, making battles with it a long and exhausting affair.",
+			  "image": "bestiary_armoredarachasae_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Endrega Drones",
+			  "intro": "Lazy, good-for-nothing men are sometimes called drones. That's an insult to endrega drones, who at least get off their arses to fight.",
+			  "author": "Evelynn Harker, herbalist",
+			  "detail": "Endrega males – called 'drones' – are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across.\n\nEndrega drones live but brief lives, the culmination of which comes in the autumn when they fertilize the queen. They pass the time leading to that moment protecting the colony's territory. Weaker drones die in these battles, while the largest and strongest survive. These elect[sic] individuals' genes are passed down to the next generation of endregas, while they themselves are killed after fertilization takes place and their bodies used to feed the hive during the long winter months.\n\nDrones are easy to identify thanks to their distinctive, cone-shaped abdomens. Unlike other endregas they can attack from a distance, sending out volleys of poisoned quills. As with all of their kind, bleeding has no effect on them and insectoid oil does them great harm.",
+			  "image": "bestiary_endregadrone_483x419",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Endrega Warriors",
+			  "intro": "Scared of these endregas, are you? Just wait till you see the warriors.",
+			  "author": "Klaus Altman, forester",
+			  "detail": "Endless waves of endrega workers are enough to overcome most attackers, but when confronting more dangerous foes, endrega colonies unleash their larger, stronger members – the so-called warriors. This caste lives only to fight, and gets ample opportunity to do so while defending the colony's borders or conquering new territory.\n\nAn endrega warrior's main weapon is its long tail, which is tipped with a club-like growth and spiked with venomous quils. Powerful abdominal muscles allow it to swing this tail with enough force to kill most lesser opponents in one blow.\n\nEndrega warriors also use their mass and strength as a weapon by charging their opponents in an attempted [sic] to knock them over. As invertebrates with sectioned carapaces, endrega warriors do not bleed profusely, yet recoil in great pain when hit with a blade coated in insectoid oil.",
+			  "image": "bestiary_endregawarrior_576x394",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Endrega Workers",
+			  "intro": "I thought the workers were harmless. I thought wrong.",
+			  "author": "Janne the Gimp, trapper.",
+			  "detail": "Workers are the most numerous, and thus the most frequently encountered, caste of endrega. Within the colony their duty lies in building nests and cocoons, acquiring food and caring for eggs and larvae. When threatened they will summon warriors to aid them, yet if forced to defend themselves they will – and do so surprisingly well.\n\nEndrega workers are most often found traveling in groups of half-dozen or more members. They move slowly, yet when attacking, they are capable of covering the distance to their victim in the blink of an eye. Like all of their kind, endrega workers are highly venomous. Their bite is toxic, as are any wounds dealt by the bony growths on the ends of their limbs. They can also spew acid to great effect from a distance of several paces. Their usual tactic is to surround their enemy and attack him from several sides at once. Like all insectoids they do not suffer particularly from bleeding, yet are caused great harm by insectoid oil.",
+			  "image": "bestiary_endregaworker_515x415",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Giant Centipedes",
+			  "expansion": "BaW",
+			  "intro": "Among the fascinating flora and fauna of the duchy of Toussaint, one also encounters creatures of the decidedly unpleasant sort, such as giant centipedes. Not only do these beasts look hideous to the eye, they can do colossal damage to the flesh as well. I decidedly advise against them.",
+			  "author": "\"A Visit to Toussaint,\" one of the many guides authored by Peterin Safles",
+			  "detail": "Giant centipedes are enormous, insect-like monsters which can be found in many places in the world, but are particularly common in the lands (or more precisely, under the lands) of Toussaint. There they often dwell in close comity with shaelmaars, for a sort of monstrous symbiosis has developed between them: giant centipedes feed on the small creatures which eat Shaelmaar dung.\n\nHard chitinous armor covers nearly the entire body of a giant centipede. Sticking out from under this carapace are rows of hooked limbs. Giant centipedes are able to burrow into the ground with shocking speed, only to then appear back on the surface in another place. Once they select a target, they will circle it determinedly, trying to get close enough to deliver a blow. They attack primarily with their powerful mandibles, but they also possess glands allowing them to spew acid.\n\nThe greatest obstacle when fighting giant centipedes is their thick armor, which deflects most blows not only from weapons, but also from magical means – such as those dealt by simple spells or witcher Signs.\n\nWhen attacked with a weapon, they will often parry the strike, then quickly reply with their own forceful counter. Thus the best method for fighting them is to chatch them in an Yrden trap, keeping them from protecting themselves with their armor or burrowing into the ground.",
+			  "image": "bestiary_giantcentipede_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Harrisi",
+			  "intro": "It attacked us... Gods, I dunno what it were, but 'twere at least four spans high!",
+			  "author": "Velen peasant woman",
+			  "detail": "Velen's woods and bogs brim with monsters. This fact is well known, and thus when the war drove refugees into this hostile land, certain of their number thought to avoid the dangers of the lowlands by hiding in an abandoned mine. They were in for an unfortunate surprise. The shaft they chose for their sanctuary was inhabited by a poisonous arachas - a merciless and bloodthirsty monster.\n\nThe witcher knew he was in for a tough fight. The arachas had dwelled in the mine for years and had grown large and particularly strong and resilient in that time. Like other members of its vile species, it would be dangerous both at close quarters and at a distance. What's more, it was almost certainly venomous - he would need to imbibe Swallow or Golden Oriole (or both) before attacking if he was to stand a chance of surviving. As a small consolation, the witcher knew the monster would be vulnerable to his Signs - especially Igni, Aard and Yrden - as well as to the Northern Wind bomb.\n\nThe witcher arrived at the cave too late to save the refugees - but he could still avenge their fate. He slew the powerful arachas and destroyed the eggs bearing its vile offspring.",
+			  "image": "bestiary_harrisi_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Kikimore Warrior",
+			  "expansion": "BaW",
+			  "intro": "Then the kikimore princess summoned all her loyal sisters and off they went! Together they charged the enemy trying to harm their queen.",
+			  "author": "\"The Kikimore Princess and the Mountain Giants\"\n\nCornelius Briggs (dwarven children's fable, fragment)",
+			  "detail": "It is unknown how exactly it is kikimores communicate with each other. Autopsies are hampered by the high toxicity of their subjects. Scholars have established that kikimores do not seem to possess any detectable auricles. One amateur researcher, Count di Salvaress, put forth a theory in his treatise \"A Microscope Among Monsters\" suggesting kikimores have a highly developed sense of smell and use airborne particles undetectable to humans to transmit information. This theory has yet to be proved or disproved.\n\nKikimore warriors defend their nests from attackers. They attack somewhat slower than kikimore workers. They are able to spew streams of caustic venom a great distance and leap to attack. This venom is highly unique in that it reacts with a witcher's body to raise the level of his potion toxicity. They are covered with thick, hard armor which easily deflects blows from even the sharpest sword.\n\nKikimore warriors are protected by swarms of workers which obey their orders until they are themselves eradicated.\n\nThey are completely immune to the effects of the Axii Sign, but vulnerable to Igni, oils and bombs harming insectoids and blows dealt by a silver sword.",
+			  "image": "bestiary_kikimorewarrior_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "white_honey"
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Kikimore Workers",
+			  "expansion": "BaW",
+			  "intro": "The old fool came home all black and blue, claiming kikimores had attacked him in the woods. Who does he take me for?! His mates worked him over because he'd cheated at gwent. If it'd been kikimores, he'd be dead. And I'd have peace at last.",
+			  "author": "Lavinia, wife of a Beauclair innkeeper",
+			  "detail": "Kikimores form colonies, making them similar to communal insects such as ants. A kikimore colony is ruled by a queen and organized into something of a social hierarchy. Kikimore workers take care of hunting food and bringing it back to the nest, while kikimore warriors defend the nest against attackers.\n\nA worker on its own can be easily killed by even a weak person or a child. It is rare indeed, however, to come across an isolated individual, for kikimore workers usual move in groups of a few to a dozen or so members. The only defense against a swarm of kikimores available to a normal person is to flee. And not even that is guaranteed to work.\n\nKikimore workers listen to orders given by kikimore warriors. On command, a swarm of workers might begin burrowing tunnels near potential prey to allow for a surprise mass attack. Eliminate the warrior guiding a swarm, however, and the workers will disperse and cease digging.\n\nKikimore workers are nimbler and quicker than warrriors.\n\nThey show complete immunity to the Axii Sign, and when they dig tunnels, they are invulnerable to all the other Signs as well. Poison also does them no harm.\n\nA good method for fighting them is to use the Igni Sign as well as oils and bombs meant to damage insectoids.",
+			  "image": "bestiary_kikimoreworker_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "white_honey"
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Pale Widows",
+			  "expansion": "BaW",
+			  "intro": "Never have I seen such a creature! It was like a giant centipede, but white, utterly white!",
+			  "author": "Account of Doctor Vittorius de la Vega after the first encounter with the Pale Widow",
+			  "detail": "This rare variety of giant centipede dwells in underground lairs and owes its name to its unusual, pale white coloring. Like the more common giant centipede, its body is covered in hard chitinous armor, with numerous hooked limbs sticking out from underneath. Some scholars raise these creatures in laboratory conditions for the properties of their albumen, which makes an excellent base for the brewing of mutagenic potions.",
+			  "image": "bestiary_palewidow_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Venomous arachasae",
+			  "intro": "Barley nicked me, I'll be fine.",
+			  "author": "Last words of an unknown hunter",
+			  "detail": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances.\n\nVenomous arachasae produce colossal amounts of this toxin and deploy it during combat in many ways. Before striking a venomous arachas will cover its pincers and teeth with a thick coating of the deadly liquid. It will then squirt the venom at its opponent to weaken it, and once locked in direct combat, will continue spraying the noxious ooze all around itself, meaning every breath brings its victim closer to death. Like other members of this species, venomous arachasae use prehensile feelers to grab and immobilize their prey. When attempting to fight such a creature a witcher should drink Golden Oriole, which will reduce his body's vulnerabilities to poison, and then attack from a safe distance with crossbow or bombs before dealing the finishing blows with a silver sword enhanced with a coating of insectoid oil.",
+			  "image": "bestiary_venomousarachas_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "title": "Pais de las maravillas",
+		  "subtitle": "The vampire alights",
+		  "image": "kh1_4_paisdelasmaravillas",
+		  "entries": [
+			{
+			  "title": "Alpha Garkain",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Alp",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Bruxa",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Dettlaff van der Eretein",
+			  "expansion": "BaW",
+			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
+			  "author": "a witness to Dettlaff's attacks",
+			  "detail": "Dettlaff is a higher vampire and one of the most terrifying creatures the world has ever known. Some vampires of his sort live among men easily and inconspicuously, sometimes even gaining the respect and admiration of their community. Yet even the most civilized vampire can be incredibly dangerous if provoked, and Dettlaff... Dettlaff was far from civilized.\n\nWhen in his two-legged form, Dettlaff strikes in surprising and unique ways, so one must be extremely alert and attentive. His razor-sharp claws, wielded with great strength and precision, are his chief weapons, yet he can also wield weapons of human devising with extraordinary skill.\n\nLike all higher vampires, Dettlaff can turn into fog and envelop opponents. When fighting a vampire in this form, one must watch out for magic puddles and attacks from the air. When wounded, Dettlaff tends to assume his winged form, using these powerful appendages to stun his foes near effortlessly.\n\nOne must remember higher vampires are immortal creatures and thus do not fear for their lives while fighting, meaning they take every risk. They are able to turn invisible and can regenerate strength during combat. All in all, they are supremely difficult foes, even for a witcher.",
+			  "image": "bestiary_dettlaffvandereretein_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+
+				],
+				"potions": [
+
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Ekimmara",
+			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
+			  "author": "Anonymous city guardsman's last words",
+			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
+			  "image": "bestiary_ekimmara_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Fleder",
+			  "expansion": "BaW",
+			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
+			  "author": "fragment of a Toussaint Ducal Guard report",
+			  "detail": "Fleders are classified as lesser vampires. Though weaker than the rest of their ilk in every aspect from the physiomagic to they physiognomic, they should not be underestimated – for they are very, very dangerous. Fleders cannot be mistaken for any other creature, with their wide, toothy jaws, flat, unpleasant faces and completely hairless, often warty bodies. These vampires mainly fight with their teeth and claws, flailing them blindly and not stopping even when their victim is already dead. Even a solitary fleder is strong enough to take down a trained soldier.\n\nCompared to other vampires, fleders display meager intelligence, seen most clearly in the mindless rage which causes them to try with all their might to attack and tear to shreds any weaker being.\n\nWhen fighting fleders, it is best to take advantage of their particular method of movement. These creatures do not run, but they do try to catch their prey and knock it over by leaping. Knowing this behavior, one can plan the fight appropriately and not let oneself be caught by surprise.\n\nThey are vulnerable to vampire oil as well as Black Blood.",
+			  "image": "bestiary_fleder_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Gael",
+			  "intro": "Vampire bites... and the strong stench of alcohol.",
+			  "author": "Geralt of Rivia",
+			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
+			  "image": "bestiary_gael_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball",
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni",
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Garkain",
+			  "expansion": "BaW",
+			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
+			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
+			  "detail": "Garkains, like fleders, belong to the class of particularly dangerous vampires whose strength exceeds even that of fiends. An encounter with one of their number almost always ends in death, which is why there are not many eye-witness accounts of them. From the city guard reports written up in Lan Exeter describing the attacks committed in that city in 1104 by three garkains (later killed by a certain Olivier of Gulet, witcher), it seems these horrible monsters do not content themselves with drinking the blood of their victims. The investigators concluded from the blood and guts strewn around the crime scenes that garkains tear their victims to shreds with great delight and muck about in their bloody entrails.\n\nGarkains belong to the group of creatures known as lesser vampires. They often gather around themselves members of other subspecies of lesser vampires, acting in such situations as leaders of the pack. They are by and large unable to run, but can jump a great distance and often attack their prey in that way. During combat, they usually keep their distance from their foes, trying to incapacitate them using a blast of mental energy provoking visions that beguile and disorient.\n\nBefore grappling a garkain, one should drink the Black Blood potion and stock up on vampire oil. It should also be remembered that the Samum and Moon Dust bombs are always effective weapons against any mental attacks.",
+			  "image": "bestiary_garkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Higher Vampire",
+			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
+			  "author": "Emiel Regis, higher vampire",
+			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
+			  "image": "bestiary_highervampire_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "Katakan",
+			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
+			  "author": "fragment of a prayer",
+			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
+			  "image": "bestiary_katakan_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball",
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni",
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "title": "Protofleder",
+			  "expansion": "BaW",
+			  "intro": "Never seen a vampire like that in my life.",
+			  "author": "Geralt of Rivia, witcher",
+			  "detail": "Protofleders are relatives of fleders which came from the world of the higher vampires to our own during the Conjunction of the Spheres.\n\nThe members of this species are characterized by their considerable strength and agility as well as the strange glow they emit, a trait most likely tied to their otherworldly nature. Protofleders have never had significant contact with the outside world, having spent their entire time on our planet in the Unseen Elder's cave, whose atmosphere is very similar to that of their home world.",
+			  "image": "bestiary_protofleder_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "title": "Sarasti",
+			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
+			  "author": "Bytomir of Velen",
+			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
+			  "image": "bestiary_sarasti_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "title": "The Bruxa of Corvo Bianco",
+			  "expansion": "BaW",
+			  "intro": "",
+			  "author": "",
+			  "detail": "The bruxa Geralt encountered and killed in self-defense at Corvo Bianco differed from other creatures of this sort. Firstly, it was more intelligent, capable even of articulating words in human language without much difficulty. What's more, this bruxa was tied to the Beast, the mysterious murderer prowling Beauclair at the time.\n\nFighting it presented Geralt with quite the challenge. Like other bruxae, this one possessed strength and speed far above that of any human, could turn invisible and could attack using a sonic wave.\n\nAs is typical for all vampires, it sought to suck its victim's blood. This meant the usual defense against those creatures, the Black Blood potion, was an effective weapon against it, as were the Moon Dust bomb and, naturally, the witcher's trusty silver blade.",
+			  "image": "bestiary_thebruxaofcorvobianco_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		}
+	  ]
+	}
