@@ -2,7 +2,6 @@
 	  "sections": [
 		{
 		  "title": "Isla del destino",
-		  "subtitle": "Damned and cursed",
 		  "image": "kh1_1_isladeldestino",
 		  "entries": [
 			{
@@ -141,7 +140,6 @@
 		},
 		{
 		  "title": "Disney",
-		  "subtitle": "The flying predators",
 		  "image": "kh1_2_disney",
 		  "entries": [
 			{
@@ -364,7 +362,6 @@
 		},
 		{
 		  "title": "Ciudad de paso",
-		  "subtitle": "Venomous and dangerous",
 		  "image": "kh1_3_ciudadpaso",
 		  "entries": [
 			{
@@ -629,7 +626,6 @@
 		},
 		{
 		  "title": "Pais de las maravillas",
-		  "subtitle": "The vampire alights",
 		  "image": "kh1_4_paisdelasmaravillas",
 		  "entries": [
 			{
