@@ -5,7 +5,7 @@
 		  "image": "kh1_1_isladeldestino",
 		  "zonas": [
 			{
-			  "title": "Archespore",
+			  "mundo": "Archespore",
 			  "expansion": "BaW",
 			  "intro": "Looks like a flower to me. A hideous, disgusting flower.",
 			  "author": "Blasco Tennerbe, last words",
@@ -28,7 +28,7 @@
 			  }
 			},
 			{
-			  "title": "Berserkers",
+			  "mundo": "Berserkers",
 			  "intro": "Now finish your soup, or a berserker'll come and swallow ye whole.",
 			  "author": "Skellige mother scolding a child.",
 			  "detail": "Skellige legends speak of men known as berserkers who transform into bears when overwhelmed by battle rage. In doing so, they lose all self-awareness and are driven by a bloodlust which they must satiate in order to return to human form. Few believe these blood-curdling tales, however, not even in Skellige, where the inhabitants usually treat even the least probable legends with the utmost gravity. This indicates either that berserkers are in fact mere figments of mead-sodden imaginations, or else that they have learned to hide their abilities from the rest of the islanders.\n\nThe skalds' ballads indicate a berserker transformed in the heat of battle cannot be distinguised from a true-born bear. Only minute anatomical details - such as the shape of their tongues and teeth - reveal their secret. Descriptions of their fighting prowess paint them as invulnerable to pain and able to heal any wound received almost at once.\n\nIf these men-turned-bears truly do exist, one can suppose that, like werewolves and lycanthropes, they are particularly vulnerable to oils that harm cursed creatured. But if we are to give credence to ancient songs about these creatures' deeds, about the mass murders and massacres they have committed, we can only hope that no witcher will have to test this hypothesis.",
@@ -50,7 +50,7 @@
 			  }
 			},
 			{
-			  "title": "Botchlings",
+			  "mundo": "Botchlings",
 			  "intro": "Saying a botchling's ugly is like saying shit's not particularly tasty: can't say it's a lie, but it doesn't exactly convey the whole truth, either.",
 			  "author": "Lambert, witcher of the Wolf School",
 			  "detail": "Botchlings are perhaps the most repulsive creatures a witcher will ever have the displeasure of meeting. Born of dead, unwanted babies discarded without a proper burial, their appearance is that of a partially-decayed fetus, their unformed flesh twisted with hate, fear and malice. These hideous creatures feed on the blood of pregnant women, driven by a mad hunger that most often leads to their victim's death.\n\nA botchling will emerge from its lair at night to lurk by the bedside of an expectant mother, draining her strength and that of her unborn progeny as she sleeps. A woman thus beleaguered first suffers from troubling dreams, then fever, delirium and a general weakening of the flesh. After a few such nights she is enfeebled and unable to defend herself - it is then the botchling attacks directly, sinking its long, sharp fangs into her body and drinking her blood until mother and fetus perish together.\n\nA botchling stands around a foot and a half in height, but, when threatened and if gorged with blood, it can change form. At such times it grows into a deformed man, hunched over and striding, ape-like, on its forearms. Stronger and fiercer after this alteration, it hurls itself into direct, physical combat, gnashing at its opponent or attacking him with sharp claws.\n\nA botchling's curse can be lifted by transforming it into a lubberkin - a guardian spirit of the hearth that watches over the family it never knew in the house it never could call home.",
@@ -71,7 +71,7 @@
 			  }
 			},
 			{
-			  "title": "The Toad Prince",
+			  "mundo": "The Toad Prince",
 			  "expansion": "HoS",
 			  "intro": "The girl walked up to the edge of the pond. There, squatting amidst the fragrant lilies and broad lily-pads, she saw a most unusual sight: a small green frog with a golden crown perched on its warty head. Charmed by this curious little creature, the girl picked it up and gave it a kiss. Immediately the little frog transformed into a handsome prince. Overcome with gratitude, he asked the girl to be his wife.",
 			  "author": "folk tale, author unknown",
@@ -93,7 +93,7 @@
 			  }
 			},
 			{
-			  "title": "Ulfhedinn",
+			  "mundo": "Ulfhedinn",
 			  "intro": "Ulfhedinn? What's that, some kind of fish?",
 			  "author": "Professor Artibus Joannes Rack, geographer, disappeared during a surveying expedition in Skellige",
 			  "detail": "Ulfhedinn are a breed of werewolf found mainly in Skellige. The harsh and barren conditions of the isles might explain why they primarily hunt men and are stronger than their continental brethren. Older and particularly dangerous ulfhedinn are called vorefs. Only a few daring warriors in Skellige history have managed to defeat an ulfhedinn, and each of them is commemorated in ballads as a hero to this day.\n\nLike werewolves, ulfhedinn and vorefs are active at night, particularly when the moon is at its fullest. Fast, strong, and amazingly resilient, these creatures kill with disturbing ease. Silver blades should be brought against them, as should Devil's Puffball. Take note that when near death the ulfhedinn becomes particularly dangerous and will attack with doubled fury, while calling on wolves to come to its rescue.",
@@ -115,7 +115,7 @@
 			  }
 			},
 			{
-			  "title": "Werewolves",
+			  "mundo": "Werewolves",
 			  "intro": "Wolves aren't as bad as they're made out to be. Werewolves, though – they're every bit as bad and worse.",
 			  "author": "Elsa Vilge, archer",
 			  "detail": "Werewolves are creatures with both men and wolves inside them. When in beastly form, they take the worst traits of each: the wolf's drive to kill and hunger for raw flesh and the man's cruel and calculating intelligence. A werewolf's condition comes about through a curse, and the transformations happen outside his conscious control. When he reverts to human form, he has no memory of his deeds – otherwise he would surely go mad and take his own life.\n\nWerewolves are active at night, particularly when the moon is full. Though they hunt alone, when threatened they will summon wolves to aid them. Werewolves rarely feel the need to flee, for few adversaries put up much of a fight against them. They strike as swiftly as lightning with claws sharp as razors and regenerate any damage received in mere moments. When fighting werewolves a witcher should wield a blade covered in oil harmful to the cursed and have a large supply of Devil's Puffballs handy.\n\nA werewolf's curse can at times be lifted, yet there is no universal, surefire method for doing this. A witcher seeking to undertake such a task must there equip himself with a great deal of patience – and sturdy armor.",
@@ -143,7 +143,7 @@
 		  "image": "kh1_2_disney",
 		  "zonas": [
 			{
-			  "title": "Basilisks",
+			  "mundo": "Basilisks",
 			  "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
 			  "author": "Gravestone inscription, Vizima cemetery.",
 			  "detail": "Contrary to popular belief, basilisks cannot turn anything to stone with their gaze. That is small comfort, however, given that their acid, venom, claws and teeth provide them many other ways to kill.\n\nBasilisks love dark, damp places such as cellars, caves and city sewers. They hunt by day, waiting patiently in hiding for their prey to come, then jump out in a flash to unleash a deadly attack.\n\nWhen preparing to fight such a creature one should drink Golden Oriole, which will provide resistance to its venom, and also prepare Dancing Star or shrapnel bombs, which work particularly well against basilisks.\n\nBasilisk leather is a highly-valued material used to make fashionable shoes and women's handbags. For this reason many men, their courage girded by goldlust, take to hunting them. Most of these hunts end in disaster, but some do manage to bag their prey, which has led to a drastic decline in this creature's numbers in recent years. Some mages and druids are of the opinion that basilisks should be included in programs meant to safeguard dying species. Everyone else thinks those mages and druids have gone completely mad.",
@@ -164,7 +164,7 @@
 			  }
 			},
 			{
-			  "title": "Cockatrices",
+			  "mundo": "Cockatrices",
 			  "intro": "Had meself eight heifers, five of 'em milchers. Then this cockatrice sprung up nearby, and now all's I got left's dried patties in an empty field.",
 			  "author": "Jethro, peasant from Pindal",
 			  "detail": "Foolish superstitions claim cockatrices, like basilisks, can kill with their gaze alone. That is utter nonsense, however, a cockatrice's gaze being no more dangerous than that of an angry goose. One should instead watch out for it's sharp beak and long tail, which it can whip to murderous effect.\n\nCockatrices thrive in dark caves, abandoned ruins, cobwebbed dungeons and old basements. Though small compared to griffins and manticores, they are more than capable of killing anyone who stumbles across them in a dark corridor.\n\nCockatrices do not shun direct fights, in which they strike furiously with wing and tail in an attempt to exhaust their foes. Blows from their beaks are especially dangerous, as they aim with deadly precision at exposed flesh and vital organs and leave bleeding, life-threatening wounds. When fighting them one should make liberal use of draconid oil as well as Grapeshot, whose shrapnel will pierce their delicate wings with ease.",
@@ -185,7 +185,7 @@
 			  }
 			},
 			{
-			  "title": "Forktails",
+			  "mundo": "Forktails",
 			  "intro": "Forktails... Bah! Fuckers' tails're more like cleavers.",
 			  "author": "Yavinn Buck, veteran of the Mahakaman Volunteer Regiment",
 			  "detail": "Forktails owe their quaint name to the long sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two – along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.",
@@ -206,7 +206,7 @@
 			  }
 			},
 			{
-			  "title": "Royal Wyverns",
+			  "mundo": "Royal Wyverns",
 			  "intro": "It were huge. And those teeth, ugh! We barely escaped.\n\nWonder if it killed the traders... Whoresons sure had it comin',",
 			  "author": "Conversation overheard in Velen",
 			  "detail": "A hunter who knows his prey's habits and behavior will rarely return from his hunt empty-handed. To know what forest paths deer are like to trod, to know in what muck boars will wallow, to guess when a hare will emerge from its burrow - that is half the battle.\n\nWhat most men do not know is that some monsters also possess such knowledge. For example, a royal wyvern from Velen had learned the danger of exposing itself to human eyes and arrows by flying high to pick out its prey from afar. Instead, it would lurk by the roadside and wait for military transports. In this way it grew fat on salted pork and beer, expanding until it resembled a dragon more than other, lesser members of its own kind.\n\nThe witcher thus knew this beast would be much stronger and more resilient than a normal wyvern. Even one blow from it could kill - which is why he would need to avoid its charge at all costs. He would also be wise to force it to the ground with his crossbow or a bomb whenever it tried to fly into the air and hurtle down in a deadly dive.\n\nIn the end the witcher slew the hideous creature, though not without some difficulty. Thanks to this feat, the soldiers could once again send shipments of food and equipment needed to conduct the war. Whether that was a good or a bad thing - that is an entirely different matter.",
@@ -227,7 +227,7 @@
 			  }
 			},
 			{
-			  "title": "Shrieker",
+			  "mundo": "Shrieker",
 			  "intro": "Heard you have a problem - a monster you call a shrieker?\n\nAye, prowls about, it does. Snatches cows and goats, mostly, but it won't scorn a man if it runs into one.",
 			  "author": "Conversation overheard at Crow's Perch",
 			  "detail": "The monster tormenting the residents of Crow's Perch turned out to be a particularly nasty cockatrice. Geralt was not surprised the baron's men had been unable to stop it. They could not possibly withstand the surgical precision of its strikes, which slice open arteries and provoke an outpouring of blood only the Swallow potion could hope to stop. Neither did they know to force it to the ground with a crossbow, a bomb or a Sign, and then evade its charge by rolling under the monster's outstretched wing.\n\nJust when it seemed the villagers would have to learn to live in the shadow of a bloodthirsty beast, to always look to the sky with fear, the witcher arrived - and put an end to the shrieker for good.",
@@ -248,7 +248,7 @@
 			  }
 			},
 			{
-			  "title": "Silver Basilisk",
+			  "mundo": "Silver Basilisk",
 			  "expansion": "BaW",
 			  "intro": "You want a fine pair of boots, you say? Bring me the hide of a silver basilisk, and I'll make you boots the whole world will envy.",
 			  "author": "Anatole Vizholy, shoemaker from Beauclair",
@@ -271,7 +271,7 @@
 			  }
 			},
 			{
-			  "title": "Slyzard",
+			  "mundo": "Slyzard",
 			  "expansion": "BaW",
 			  "intro": "Some peasants once offered me a king's ransom to slay a slyzard. A damned hefty purse, chock full o' gold... But I turned 'em down. Coin's no good if you're dead. And a slyzard, that's no fuckin' forktail.",
 			  "author": "Zator, one of the Crinfrid Reavers",
@@ -294,7 +294,7 @@
 			  }
 			},
 			{
-			  "title": "Slyzard Martiarchs",
+			  "mundo": "Slyzard Martiarchs",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -317,7 +317,7 @@
 			  }
 			},
 			{
-			  "title": "The Dragon of Fyresdal",
+			  "mundo": "The Dragon of Fyresdal",
 			  "intro": "It's got scales, wings, claws... A dragon's a dragon! No point gabbin', just go kill it!",
 			  "author": "Vagn, village elder of Fyresdal",
 			  "detail": "Few truly know what a dragon looks like, for those who have seen one up-close rarely have a chance to share their impressions. That is why people are forever mistaking other monsters for dragons. This was the case in Fyresdal, where the so-called dragon wreaking havoc turned out to be a forktail.\n\nYet this mistaken attribution did not mean there was no reason to worry. The forktail harassing Fyresdal was a particularly vile representative of its kind, one equipped with an endless store of deadly venom. Fighting it without first drinking a regenerative potion or a poison antidote would be tantamount to suicide.\n\nIn his fight with the forktail, Geralt gave proof not only of his masterful swordsmanship, but also of a previously-undemonstrated flair for shepherdry. With a little help from a brave sheep lent by the village elder, he lured the monster into a trap - then ended its life.",
@@ -338,7 +338,7 @@
 			  }
 			},
 			{
-			  "title": "Wyverns",
+			  "mundo": "Wyverns",
 			  "intro": "Most dangerous of all are the royal wyverns. Or, as they're called in some circles, the royal pains in the arse.",
 			  "author": "Albina Tottelkampf, lecturer in natural sciences at Aretuza",
 			  "detail": "Wyverns are often mistaken for dragons, and, though they are much smaller than their more famous kin and do not breathe fire, they are likewise extremely dangerous monsters. Especially feared are the so-called royal wyverns who, like their namesake monarchs, are exceptionally ornery and extremely deadly.",
@@ -365,7 +365,7 @@
 		  "image": "kh1_3_ciudadpaso",
 		  "zonas": [
 			{
-			  "title": "Arachasae",
+			  "mundo": "Arachasae",
 			  "intro": "N'aracche aen woed endicen [Let sleeping arachasae lie].",
 			  "author": "Elven proverb",
 			  "detail": "Powerful pincers, a maw filled with razor-sharp teeth and venom glands packed with deadly toxins – these creatures constitute the arachas' deadly arsenal. Since people and farm animals make up an important part of these creatures' diet, contracts on arachasae in turn constitute an important source of witcher coin.\n\nOnce native to the far south, this invasive species migrated north over the course of decades, adjusting as it went to new climates and temperatures. It found damp woodlands and swamps most hospitable and made them its home, making use of the much and moss found there as blankets during its winter hiberation. The arachas hides its unprotected, sack-like abdomen under a covering of hollow tree-trunks worn on its back.\n\nAt first glance, a stationary arachas often looks like a part of the forest undergrowth, a fact it uses to deadly advantage when hunting. It usually begins a battle by spitting venom, then tries to grab its prey with prehensile feelers in order to drag it within reach of its crushing pincers.",
@@ -386,7 +386,7 @@
 			  }
 			},
 			{
-			  "title": "Arachnomorphs",
+			  "mundo": "Arachnomorphs",
 			  "expansion": "HoS",
 			  "intro": "The spider shall never lie down with the fly.",
 			  "author": "Ofieri proverb",
@@ -409,7 +409,7 @@
 			  }
 			},
 			{
-			  "title": "Armored Arachasae",
+			  "mundo": "Armored Arachasae",
 			  "intro": "That's the kinda john we call an 'armored arachas.' Hard and prickly on the otuside, but get 'im undressed and everything's soft and squishy.",
 			  "author": "Foxy Lisa, Maribor prostitute",
 			  "detail": "An arachas' only weakness is its soft, sensitive abdomen. Some arachasae hide this under hollow tree stumps, while other, \"armored\" varieties exist which have grown a thick carapace that covers all the more delicate parts of their bodies.\n\nAn armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and this Golden Oriole should always be consumed before fighting it.\n\nIt is also worthwhile to stock up on healing potions and crossbow bolts before setting out, for this arachas' thick plating can withstand a great deal of damage, making battles with it a long and exhausting affair.",
@@ -430,7 +430,7 @@
 			  }
 			},
 			{
-			  "title": "Endrega Drones",
+			  "mundo": "Endrega Drones",
 			  "intro": "Lazy, good-for-nothing men are sometimes called drones. That's an insult to endrega drones, who at least get off their arses to fight.",
 			  "author": "Evelynn Harker, herbalist",
 			  "detail": "Endrega males – called 'drones' – are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across.\n\nEndrega drones live but brief lives, the culmination of which comes in the autumn when they fertilize the queen. They pass the time leading to that moment protecting the colony's territory. Weaker drones die in these battles, while the largest and strongest survive. These elect[sic] individuals' genes are passed down to the next generation of endregas, while they themselves are killed after fertilization takes place and their bodies used to feed the hive during the long winter months.\n\nDrones are easy to identify thanks to their distinctive, cone-shaped abdomens. Unlike other endregas they can attack from a distance, sending out volleys of poisoned quills. As with all of their kind, bleeding has no effect on them and insectoid oil does them great harm.",
@@ -451,7 +451,7 @@
 			  }
 			},
 			{
-			  "title": "Endrega Warriors",
+			  "mundo": "Endrega Warriors",
 			  "intro": "Scared of these endregas, are you? Just wait till you see the warriors.",
 			  "author": "Klaus Altman, forester",
 			  "detail": "Endless waves of endrega workers are enough to overcome most attackers, but when confronting more dangerous foes, endrega colonies unleash their larger, stronger members – the so-called warriors. This caste lives only to fight, and gets ample opportunity to do so while defending the colony's borders or conquering new territory.\n\nAn endrega warrior's main weapon is its long tail, which is tipped with a club-like growth and spiked with venomous quils. Powerful abdominal muscles allow it to swing this tail with enough force to kill most lesser opponents in one blow.\n\nEndrega warriors also use their mass and strength as a weapon by charging their opponents in an attempted [sic] to knock them over. As invertebrates with sectioned carapaces, endrega warriors do not bleed profusely, yet recoil in great pain when hit with a blade coated in insectoid oil.",
@@ -472,7 +472,7 @@
 			  }
 			},
 			{
-			  "title": "Endrega Workers",
+			  "mundo": "Endrega Workers",
 			  "intro": "I thought the workers were harmless. I thought wrong.",
 			  "author": "Janne the Gimp, trapper.",
 			  "detail": "Workers are the most numerous, and thus the most frequently encountered, caste of endrega. Within the colony their duty lies in building nests and cocoons, acquiring food and caring for eggs and larvae. When threatened they will summon warriors to aid them, yet if forced to defend themselves they will – and do so surprisingly well.\n\nEndrega workers are most often found traveling in groups of half-dozen or more members. They move slowly, yet when attacking, they are capable of covering the distance to their victim in the blink of an eye. Like all of their kind, endrega workers are highly venomous. Their bite is toxic, as are any wounds dealt by the bony growths on the ends of their limbs. They can also spew acid to great effect from a distance of several paces. Their usual tactic is to surround their enemy and attack him from several sides at once. Like all insectoids they do not suffer particularly from bleeding, yet are caused great harm by insectoid oil.",
@@ -493,7 +493,7 @@
 			  }
 			},
 			{
-			  "title": "Giant Centipedes",
+			  "mundo": "Giant Centipedes",
 			  "expansion": "BaW",
 			  "intro": "Among the fascinating flora and fauna of the duchy of Toussaint, one also encounters creatures of the decidedly unpleasant sort, such as giant centipedes. Not only do these beasts look hideous to the eye, they can do colossal damage to the flesh as well. I decidedly advise against them.",
 			  "author": "\"A Visit to Toussaint,\" one of the many guides authored by Peterin Safles",
@@ -515,7 +515,7 @@
 			  }
 			},
 			{
-			  "title": "Harrisi",
+			  "mundo": "Harrisi",
 			  "intro": "It attacked us... Gods, I dunno what it were, but 'twere at least four spans high!",
 			  "author": "Velen peasant woman",
 			  "detail": "Velen's woods and bogs brim with monsters. This fact is well known, and thus when the war drove refugees into this hostile land, certain of their number thought to avoid the dangers of the lowlands by hiding in an abandoned mine. They were in for an unfortunate surprise. The shaft they chose for their sanctuary was inhabited by a poisonous arachas - a merciless and bloodthirsty monster.\n\nThe witcher knew he was in for a tough fight. The arachas had dwelled in the mine for years and had grown large and particularly strong and resilient in that time. Like other members of its vile species, it would be dangerous both at close quarters and at a distance. What's more, it was almost certainly venomous - he would need to imbibe Swallow or Golden Oriole (or both) before attacking if he was to stand a chance of surviving. As a small consolation, the witcher knew the monster would be vulnerable to his Signs - especially Igni, Aard and Yrden - as well as to the Northern Wind bomb.\n\nThe witcher arrived at the cave too late to save the refugees - but he could still avenge their fate. He slew the powerful arachas and destroyed the eggs bearing its vile offspring.",
@@ -536,7 +536,7 @@
 			  }
 			},
 			{
-			  "title": "Kikimore Warrior",
+			  "mundo": "Kikimore Warrior",
 			  "expansion": "BaW",
 			  "intro": "Then the kikimore princess summoned all her loyal sisters and off they went! Together they charged the enemy trying to harm their queen.",
 			  "author": "\"The Kikimore Princess and the Mountain Giants\"\n\nCornelius Briggs (dwarven children's fable, fragment)",
@@ -558,7 +558,7 @@
 			  }
 			},
 			{
-			  "title": "Kikimore Workers",
+			  "mundo": "Kikimore Workers",
 			  "expansion": "BaW",
 			  "intro": "The old fool came home all black and blue, claiming kikimores had attacked him in the woods. Who does he take me for?! His mates worked him over because he'd cheated at gwent. If it'd been kikimores, he'd be dead. And I'd have peace at last.",
 			  "author": "Lavinia, wife of a Beauclair innkeeper",
@@ -580,7 +580,7 @@
 			  }
 			},
 			{
-			  "title": "Pale Widows",
+			  "mundo": "Pale Widows",
 			  "expansion": "BaW",
 			  "intro": "Never have I seen such a creature! It was like a giant centipede, but white, utterly white!",
 			  "author": "Account of Doctor Vittorius de la Vega after the first encounter with the Pale Widow",
@@ -602,7 +602,7 @@
 			  }
 			},
 			{
-			  "title": "Venomous arachasae",
+			  "mundo": "Venomous arachasae",
 			  "intro": "Barley nicked me, I'll be fine.",
 			  "author": "Last words of an unknown hunter",
 			  "detail": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances.\n\nVenomous arachasae produce colossal amounts of this toxin and deploy it during combat in many ways. Before striking a venomous arachas will cover its pincers and teeth with a thick coating of the deadly liquid. It will then squirt the venom at its opponent to weaken it, and once locked in direct combat, will continue spraying the noxious ooze all around itself, meaning every breath brings its victim closer to death. Like other members of this species, venomous arachasae use prehensile feelers to grab and immobilize their prey. When attempting to fight such a creature a witcher should drink Golden Oriole, which will reduce his body's vulnerabilities to poison, and then attack from a safe distance with crossbow or bombs before dealing the finishing blows with a silver sword enhanced with a coating of insectoid oil.",
@@ -629,7 +629,7 @@
 		  "image": "kh1_4_paisdelasmaravillas",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -652,7 +652,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -674,7 +674,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -696,7 +696,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -718,7 +718,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -739,7 +739,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -761,7 +761,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -784,7 +784,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -807,7 +807,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -828,7 +828,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -851,7 +851,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -873,7 +873,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -894,7 +894,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -922,7 +922,7 @@
 		  "image": "kh1_5_selvaprofunda",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -945,7 +945,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -967,7 +967,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -989,7 +989,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -1011,7 +1011,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -1032,7 +1032,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -1054,7 +1054,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -1077,7 +1077,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -1100,7 +1100,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -1121,7 +1121,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -1144,7 +1144,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -1166,7 +1166,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -1187,7 +1187,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -1215,7 +1215,7 @@
 		  "image": "kh1_6_coliseoolimpo",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -1238,7 +1238,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -1260,7 +1260,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -1282,7 +1282,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -1304,7 +1304,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -1325,7 +1325,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -1347,7 +1347,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -1370,7 +1370,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -1393,7 +1393,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -1414,7 +1414,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -1437,7 +1437,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -1459,7 +1459,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -1480,7 +1480,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -1508,7 +1508,7 @@
 		  "image": "kh1_7_bosque100acres",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -1531,7 +1531,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -1553,7 +1553,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -1575,7 +1575,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -1597,7 +1597,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -1618,7 +1618,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -1640,7 +1640,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -1663,7 +1663,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -1686,7 +1686,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -1707,7 +1707,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -1730,7 +1730,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -1752,7 +1752,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -1773,7 +1773,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -1801,7 +1801,7 @@
 		  "image": "kh1_8_agrabah",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -1824,7 +1824,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -1846,7 +1846,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -1868,7 +1868,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -1890,7 +1890,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -1911,7 +1911,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -1933,7 +1933,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -1956,7 +1956,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -1979,7 +1979,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -2000,7 +2000,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -2023,7 +2023,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -2045,7 +2045,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -2066,7 +2066,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -2094,7 +2094,7 @@
 		  "image": "kh1_9_monstruo",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -2117,7 +2117,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -2139,7 +2139,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -2161,7 +2161,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -2183,7 +2183,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -2204,7 +2204,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -2226,7 +2226,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -2249,7 +2249,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -2272,7 +2272,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -2293,7 +2293,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -2316,7 +2316,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -2338,7 +2338,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -2359,7 +2359,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -2387,7 +2387,7 @@
 		  "image": "kh1_10_atlantica",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -2410,7 +2410,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -2432,7 +2432,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -2454,7 +2454,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -2476,7 +2476,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -2497,7 +2497,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -2519,7 +2519,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -2542,7 +2542,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -2565,7 +2565,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -2586,7 +2586,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -2609,7 +2609,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -2631,7 +2631,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -2652,7 +2652,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -2680,7 +2680,7 @@
 		  "image": "kh1_11_ciudadhalloween",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -2703,7 +2703,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -2725,7 +2725,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -2747,7 +2747,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -2769,7 +2769,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -2790,7 +2790,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -2812,7 +2812,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -2835,7 +2835,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -2858,7 +2858,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -2879,7 +2879,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -2902,7 +2902,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -2924,7 +2924,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -2945,7 +2945,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -2973,7 +2973,7 @@
 		  "image": "kh1_12_paisnuncajamas",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -2996,7 +2996,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -3018,7 +3018,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -3040,7 +3040,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -3062,7 +3062,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -3083,7 +3083,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -3105,7 +3105,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -3128,7 +3128,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -3151,7 +3151,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -3172,7 +3172,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -3195,7 +3195,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -3217,7 +3217,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -3238,7 +3238,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -3266,7 +3266,7 @@
 		  "image": "kh1_13_bastionhueco",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -3289,7 +3289,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -3311,7 +3311,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -3333,7 +3333,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -3355,7 +3355,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -3376,7 +3376,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -3398,7 +3398,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -3421,7 +3421,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -3444,7 +3444,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -3465,7 +3465,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -3488,7 +3488,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -3510,7 +3510,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -3531,7 +3531,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
@@ -3559,7 +3559,7 @@
 		  "image": "kh1_14_finmundo",
 		  "zonas": [
 			{
-			  "title": "Alpha Garkain",
+			  "mundo": "Alpha Garkain",
 			  "expansion": "BaW",
 			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
 			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
@@ -3582,7 +3582,7 @@
 			  }
 			},
 			{
-			  "title": "Alp",
+			  "mundo": "Alp",
 			  "expansion": "BaW",
 			  "intro": "Looked like a bruxa, but that was no bruxa...",
 			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
@@ -3604,7 +3604,7 @@
 			  }
 			},
 			{
-			  "title": "Bruxa",
+			  "mundo": "Bruxa",
 			  "expansion": "BaW",
 			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
 			  "author": "anonymous piece of advice",
@@ -3626,7 +3626,7 @@
 			  }
 			},
 			{
-			  "title": "Dettlaff van der Eretein",
+			  "mundo": "Dettlaff van der Eretein",
 			  "expansion": "BaW",
 			  "intro": "It was horrifying to watch... that gentleman suddenly turned into a ghastly beast, with claws, and... tore those men to shreds with the precision of a master butcher...",
 			  "author": "a witness to Dettlaff's attacks",
@@ -3648,7 +3648,7 @@
 			  }
 			},
 			{
-			  "title": "Ekimmara",
+			  "mundo": "Ekimmara",
 			  "intro": "Bah, ain't nothing to fear. Ekimmaras, why, they ain't nothing more than overgrown bats.",
 			  "author": "Anonymous city guardsman's last words",
 			  "detail": "Like other vampires, ekimmaras are not, despite what village gossips might say, undead humans. They are instead post-Conjunction monsters who have no particular feelings about garlic, holy water or religious symbols.\n\nUnlike their portrayals in ballads and legends, they look nothing like handsome, pale aristocrats with charming eastern accents, though, like katakans and nekurats, they do bear a strong resemblance to overgrown bats. They also do not suck blood from the necks of virgins with a delicate, kiss-like bite – they tear them to shreds using long, sharp claws and then slurp the splattered blood off the ground.\n\nEkimmaras are unusually cruel and exceptionally swift. They are able to quickly land blow after blow capable of smashing even the best Mahakaman-made armor into tiny shards. They should be fought with a silver sword, remembering that they can regenerate back health over time. One should thus never attempt to tire them out or, gods forbid, wait for it to bleed to death. Instead, cut then down as quickly as possible and, if possible, burn the body to ash and scatter it to the four winds.",
@@ -3669,7 +3669,7 @@
 			  }
 			},
 			{
-			  "title": "Fleder",
+			  "mundo": "Fleder",
 			  "expansion": "BaW",
 			  "intro": "The deceased's corpse was completely mutilated. All that remained of the nose was a hole clotted with blood. One eye socket had been torn off. Seeing this, Sergeant Dovate vomited profusely and the administration of smelling salts was required. The investigation has been discontinued and the deed attributed to a supernatural being.",
 			  "author": "fragment of a Toussaint Ducal Guard report",
@@ -3691,7 +3691,7 @@
 			  }
 			},
 			{
-			  "title": "Gael",
+			  "mundo": "Gael",
 			  "intro": "Vampire bites... and the strong stench of alcohol.",
 			  "author": "Geralt of Rivia",
 			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
@@ -3714,7 +3714,7 @@
 			  }
 			},
 			{
-			  "title": "Garkain",
+			  "mundo": "Garkain",
 			  "expansion": "BaW",
 			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
 			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
@@ -3737,7 +3737,7 @@
 			  }
 			},
 			{
-			  "title": "Higher Vampire",
+			  "mundo": "Higher Vampire",
 			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
 			  "author": "Emiel Regis, higher vampire",
 			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
@@ -3758,7 +3758,7 @@
 			  }
 			},
 			{
-			  "title": "Katakan",
+			  "mundo": "Katakan",
 			  "intro": "Melitele, Great Mother, protect us from evil, from unclean devils and foul demons, and most of all from the clutches of katakans and nekurats...",
 			  "author": "fragment of a prayer",
 			  "detail": "Katakans and their more dangerous kin, nekurats, are the embodiments of human fear. They hide in the shadows. They feed on blood. They resemble enormous bats – though with long fangs and even longer talons. And, as if that weren't terror enough, they can turn invisible, waiting unseen while dread of their unpreventable attack overwhelms their victim.\n\nWhen fighting a katakan one must pay particular attention to its shadow – often the only way to know its location.\n\nKatakans are invulnerable to steel, regenerate quickly, hear acutely and move at incredible speed. To even the odds one can temporarily immobilize katakans using the Yrden sign, then seize that moment to attack with all one's might – for there might not be another chance.\n\nUnfortunately, the legends are wrong and the sun's rays do not turn katakans to ash. They are vulnerable to sunlight, however, and when the sun stands at its zenith their regeneration is considerably slowed.",
@@ -3781,7 +3781,7 @@
 			  }
 			},
 			{
-			  "title": "Protofleder",
+			  "mundo": "Protofleder",
 			  "expansion": "BaW",
 			  "intro": "Never seen a vampire like that in my life.",
 			  "author": "Geralt of Rivia, witcher",
@@ -3803,7 +3803,7 @@
 			  }
 			},
 			{
-			  "title": "Sarasti",
+			  "mundo": "Sarasti",
 			  "intro": "We dug out a chamber. There was a beast sleeping inside. We fell over the props to collapse the ceiling, but it must not have buried the monster...",
 			  "author": "Bytomir of Velen",
 			  "detail": "Raiders of elven tombs either get rich quickly, or die trying. The Aen Seidhe's disintegrating temples and palaces hold priceless treasures, true, but within them many a foul monster waits in deep slumber. Such was the case in Byways, where a few peasants, unaware of the dangers they faced, awoke an unusually dangerous ekimmara.\n\nThe witcher knew this monster would be no easy kill. That the vampire would quickly regenerate, that its blows would cause heavy bleeding, that it was able to disappear into thin air. Yet he also knew he could overcome these advantages. He needed merely to use Yrden and Quen Signs and strike heavy blows. Oh, and avoid getting killed.\n\nThe vampire had already managed to kill several peasants and a patrol of heavily-armed Nilfgaardians. The list of victims would surely have grown even longer, had not Geralt of Rivia, the White Wolf, happened to waltz into town.",
@@ -3824,7 +3824,7 @@
 			  }
 			},
 			{
-			  "title": "The Bruxa of Corvo Bianco",
+			  "mundo": "The Bruxa of Corvo Bianco",
 			  "expansion": "BaW",
 			  "intro": "",
 			  "author": "",
