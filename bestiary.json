@@ -1,5 +1,1247 @@
+{	
+	"sections": 
 	{
-	  "sections": [
+	  "juego": "Kingdom Hearts 1",
+	  "image": "kh1_1_isladeldestino",
+	  "mundos":  [
+		{
+		  "mundo": "Isla del destino",
+		  "image": "kh1_1_isladeldestino",
+		  "zonas": [
+			{
+			  "zona_nombre": "Archespore",
+			  "expansion": "BaW",
+			  "intro": "Looks like a flower to me. A hideous, disgusting flower.",
+			  "author": "Blasco Tennerbe, last words",
+			  "detail": "Archespores look like gigantic, aesthetically unpleasing flowers with some of the traits of exceptionally cruel and bloodthirsty sundews. They are, however, far more dangerous that even the most colossal sundew. Their peculiar appearance makes them practically impossible to discern amidsts other plants. By the time one draws close enough to realize what they are, it is often too late to flee.\n\nAccording to popular belief, archespores are cursed plants grown in soil fertilized by the blood of the dying. They are most often found in places which in the past saw pogroms, bloody rituals or cruel murders Four types of archespore have been catalogued to date, differing from one another in terms of coloring: brown (the least dangerous), green and purple (the most dangerous). The final variant, said to have been cultivated by mages from Ban Ard, is the yellow archespore, whose strength is similar to that of its green-colored-cousins.\n\nRegardless of color, all archespores fight using similar methods: attacking with powerful, jaw-like leaves. If their victim is out of reach, they can also spray caustic acid which if it makes any contact whatsoever with the skin, can provoke a reaction similar to that caused by severe poisoning.\n\nLike other plants, all archespores are extremely vulnerable to fire, which is one of the most effective methods of fighting them. Silver also works well, as does any sort of shock wave. Archespores do not like strong vibrations, which cause them to flee underground at once. Due to the nature of their origins, oil damaging to cursed beings can also be useful against them.",
+			  "image": "bestiary_archespore_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "aard",
+				  "igni"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Berserkers",
+			  "intro": "Now finish your soup, or a berserker'll come and swallow ye whole.",
+			  "author": "Skellige mother scolding a child.",
+			  "detail": "Skellige legends speak of men known as berserkers who transform into bears when overwhelmed by battle rage. In doing so, they lose all self-awareness and are driven by a bloodlust which they must satiate in order to return to human form. Few believe these blood-curdling tales, however, not even in Skellige, where the inhabitants usually treat even the least probable legends with the utmost gravity. This indicates either that berserkers are in fact mere figments of mead-sodden imaginations, or else that they have learned to hide their abilities from the rest of the islanders.\n\nThe skalds' ballads indicate a berserker transformed in the heat of battle cannot be distinguised from a true-born bear. Only minute anatomical details - such as the shape of their tongues and teeth - reveal their secret. Descriptions of their fighting prowess paint them as invulnerable to pain and able to heal any wound received almost at once.\n\nIf these men-turned-bears truly do exist, one can suppose that, like werewolves and lycanthropes, they are particularly vulnerable to oils that harm cursed creatured. But if we are to give credence to ancient songs about these creatures' deeds, about the mass murders and massacres they have committed, we can only hope that no witcher will have to test this hypothesis.",
+			  "image": "bestiary_berserkers_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball"
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni",
+				  "quen"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Botchlings",
+			  "intro": "Saying a botchling's ugly is like saying shit's not particularly tasty: can't say it's a lie, but it doesn't exactly convey the whole truth, either.",
+			  "author": "Lambert, witcher of the Wolf School",
+			  "detail": "Botchlings are perhaps the most repulsive creatures a witcher will ever have the displeasure of meeting. Born of dead, unwanted babies discarded without a proper burial, their appearance is that of a partially-decayed fetus, their unformed flesh twisted with hate, fear and malice. These hideous creatures feed on the blood of pregnant women, driven by a mad hunger that most often leads to their victim's death.\n\nA botchling will emerge from its lair at night to lurk by the bedside of an expectant mother, draining her strength and that of her unborn progeny as she sleeps. A woman thus beleaguered first suffers from troubling dreams, then fever, delirium and a general weakening of the flesh. After a few such nights she is enfeebled and unable to defend herself - it is then the botchling attacks directly, sinking its long, sharp fangs into her body and drinking her blood until mother and fetus perish together.\n\nA botchling stands around a foot and a half in height, but, when threatened and if gorged with blood, it can change form. At such times it grows into a deformed man, hunched over and striding, ape-like, on its forearms. Stronger and fiercer after this alteration, it hurls itself into direct, physical combat, gnashing at its opponent or attacking him with sharp claws.\n\nA botchling's curse can be lifted by transforming it into a lubberkin - a guardian spirit of the hearth that watches over the family it never knew in the house it never could call home.",
+			  "image": "bestiary_botchling_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "axii"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "The Toad Prince",
+			  "expansion": "HoS",
+			  "intro": "The girl walked up to the edge of the pond. There, squatting amidst the fragrant lilies and broad lily-pads, she saw a most unusual sight: a small green frog with a golden crown perched on its warty head. Charmed by this curious little creature, the girl picked it up and gave it a kiss. Immediately the little frog transformed into a handsome prince. Overcome with gratitude, he asked the girl to be his wife.",
+			  "author": "folk tale, author unknown",
+			  "detail": "Timeless tales always carry within them a grain of truth. The legend of the frog prince is no exception, or at least that's what the folk of Oxenfurt wished to believe when they found out a monstrous toad lurked in their city sewers. The women who hunted it in search of romance and a better life, however, found their tales had a most unhappy ending. The creature they encountered was no small, sweet frog but a bloodthirsty beast, who not only did not let them in for a kiss, but instead greedily devoured them and anything else that strayed into its slime-covered lair.",
+			  "image": "bestiary_thetoadprince_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+
+				],
+				"potions": [
+
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Ulfhedinn",
+			  "intro": "Ulfhedinn? What's that, some kind of fish?",
+			  "author": "Professor Artibus Joannes Rack, geographer, disappeared during a surveying expedition in Skellige",
+			  "detail": "Ulfhedinn are a breed of werewolf found mainly in Skellige. The harsh and barren conditions of the isles might explain why they primarily hunt men and are stronger than their continental brethren. Older and particularly dangerous ulfhedinn are called vorefs. Only a few daring warriors in Skellige history have managed to defeat an ulfhedinn, and each of them is commemorated in ballads as a hero to this day.\n\nLike werewolves, ulfhedinn and vorefs are active at night, particularly when the moon is at its fullest. Fast, strong, and amazingly resilient, these creatures kill with disturbing ease. Silver blades should be brought against them, as should Devil's Puffball. Take note that when near death the ulfhedinn becomes particularly dangerous and will attack with doubled fury, while calling on wolves to come to its rescue.",
+			  "image": "bestiary_ulfhedinn_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "devils_puffball"
+				],
+				"oils": [
+				  "cursed"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Disney",
+		  "image": "kh1_2_disney",
+		  "zonas": [
+			{
+			  "zona_nombre": "Basilisks",
+			  "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
+			  "author": "Gravestone inscription, Vizima cemetery.",
+			  "detail": "Contrary to popular belief, basilisks cannot turn anything to stone with their gaze. That is small comfort, however, given that their acid, venom, claws and teeth provide them many other ways to kill.\n\nBasilisks love dark, damp places such as cellars, caves and city sewers. They hunt by day, waiting patiently in hiding for their prey to come, then jump out in a flash to unleash a deadly attack.\n\nWhen preparing to fight such a creature one should drink Golden Oriole, which will provide resistance to its venom, and also prepare Dancing Star or shrapnel bombs, which work particularly well against basilisks.\n\nBasilisk leather is a highly-valued material used to make fashionable shoes and women's handbags. For this reason many men, their courage girded by goldlust, take to hunting them. Most of these hunts end in disaster, but some do manage to bag their prey, which has led to a drastic decline in this creature's numbers in recent years. Some mages and druids are of the opinion that basilisks should be included in programs meant to safeguard dying species. Everyone else thinks those mages and druids have gone completely mad.",
+			  "image": "bestiary_basilisk_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cockatrices",
+			  "intro": "Had meself eight heifers, five of 'em milchers. Then this cockatrice sprung up nearby, and now all's I got left's dried patties in an empty field.",
+			  "author": "Jethro, peasant from Pindal",
+			  "detail": "Foolish superstitions claim cockatrices, like basilisks, can kill with their gaze alone. That is utter nonsense, however, a cockatrice's gaze being no more dangerous than that of an angry goose. One should instead watch out for it's sharp beak and long tail, which it can whip to murderous effect.\n\nCockatrices thrive in dark caves, abandoned ruins, cobwebbed dungeons and old basements. Though small compared to griffins and manticores, they are more than capable of killing anyone who stumbles across them in a dark corridor.\n\nCockatrices do not shun direct fights, in which they strike furiously with wing and tail in an attempt to exhaust their foes. Blows from their beaks are especially dangerous, as they aim with deadly precision at exposed flesh and vital organs and leave bleeding, life-threatening wounds. When fighting them one should make liberal use of draconid oil as well as Grapeshot, whose shrapnel will pierce their delicate wings with ease.",
+			  "image": "bestiary_cockatrice_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Forktails",
+			  "intro": "Forktails... Bah! Fuckers' tails're more like cleavers.",
+			  "author": "Yavinn Buck, veteran of the Mahakaman Volunteer Regiment",
+			  "detail": "Forktails owe their quaint name to the long sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two – along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.",
+			  "image": "bestiary_forktail_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "grapeshot"
+				],
+				"oils": [
+				  "draconid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+				  "aard"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Ciudad de paso",
+		  "image": "kh1_3_ciudadpaso",
+		  "zonas": [
+			{
+			  "zona_nombre": "Arachasae",
+			  "intro": "N'aracche aen woed endicen [Let sleeping arachasae lie].",
+			  "author": "Elven proverb",
+			  "detail": "Powerful pincers, a maw filled with razor-sharp teeth and venom glands packed with deadly toxins – these creatures constitute the arachas' deadly arsenal. Since people and farm animals make up an important part of these creatures' diet, contracts on arachasae in turn constitute an important source of witcher coin.\n\nOnce native to the far south, this invasive species migrated north over the course of decades, adjusting as it went to new climates and temperatures. It found damp woodlands and swamps most hospitable and made them its home, making use of the much and moss found there as blankets during its winter hiberation. The arachas hides its unprotected, sack-like abdomen under a covering of hollow tree-trunks worn on its back.\n\nAt first glance, a stationary arachas often looks like a part of the forest undergrowth, a fact it uses to deadly advantage when hunting. It usually begins a battle by spitting venom, then tries to grab its prey with prehensile feelers in order to drag it within reach of its crushing pincers.",
+			  "image": "bestiary_arachasae_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Arachnomorphs",
+			  "expansion": "HoS",
+			  "intro": "The spider shall never lie down with the fly.",
+			  "author": "Ofieri proverb",
+			  "detail": "A similar saying could gain ground in our land concerning arachnomorphs and everything unable to flee them – meaning most every creature in the world. True, the tillers of the earth and fellers of trees need not fear them in their daily labors, for arachnomorphs, as distant, post-Conjunction cousins of common spiders, strongly prefer deep, dark caves and unfrequented sodden swamps. Anyone who does come across them, however, had best hope his conscience is clear and his worldly affairs are in order, for his life shall soon end, as not even the fastest man in the world can outrun them and only a few witchers can hope to slay them. Even worse are the more aggressive and dangerous kind known as arachnomorph colossi, which are capable of devouring an entire ox in seconds.",
+			  "image": "bestiary_arachnomorph_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "aard",
+				  "axii"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Armored Arachasae",
+			  "intro": "That's the kinda john we call an 'armored arachas.' Hard and prickly on the otuside, but get 'im undressed and everything's soft and squishy.",
+			  "author": "Foxy Lisa, Maribor prostitute",
+			  "detail": "An arachas' only weakness is its soft, sensitive abdomen. Some arachasae hide this under hollow tree stumps, while other, \"armored\" varieties exist which have grown a thick carapace that covers all the more delicate parts of their bodies.\n\nAn armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and this Golden Oriole should always be consumed before fighting it.\n\nIt is also worthwhile to stock up on healing potions and crossbow bolts before setting out, for this arachas' thick plating can withstand a great deal of damage, making battles with it a long and exhausting affair.",
+			  "image": "bestiary_armoredarachasae_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "insectoid"
+				],
+				"potions": [
+				  "golden_oriole"
+				],
+				"signs": [
+
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Pais de las maravillas",
+		  "image": "kh1_4_paisdelasmaravillas",
+		  "zonas": [
+			{
+			  "zona_nombre": "Cuarto misterioso",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Palacio real",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Bosque de lotos",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Jardin del té",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Selva profunda",
+		  "image": "kh1_5_selvaprofunda",
+		  "zonas": [
+			{
+			  "zona_nombre": "Casa del Árbol",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Gran foso",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Campamento",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Hipopótamos",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cascada",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Coliseo del olimpo",
+		  "image": "kh1_6_coliseoolimpo",
+		  "zonas": [
+			{
+			  "zona_nombre": "Entrada",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Portal",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Zona de combate",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Bosque de los 100 acres",
+		  "image": "kh1_7_bosque100acres",
+		  "zonas": [
+			{
+			  "zona_nombre": "Alpha Garkain",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Alp",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Bruxa",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Agrabah",
+		  "image": "kh1_8_agrabah",
+		  "zonas": [
+			{
+			  "zona_nombre": "Casa de Aladdin",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Callejón",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cabeza de tigre",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Entrada",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Sala del tesoro",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Sala de la lámpara",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}			
+		  ]
+		},
+		{
+		  "mundo": "Monstruo",
+		  "image": "kh1_9_monstruo",
+		  "zonas": [
+			{
+			  "zona_nombre": "Vientre 2",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Vientre 3",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance. ",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Vientre 6",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Vientre 5",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Atlantica",
+		  "image": "kh1_10_atlantica",
+		  "zonas": [
+			{
+			  "zona_nombre": "Laberinto",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Ciudad de Halloween",
+		  "image": "kh1_11_ciudadhalloween",
+		  "zonas": [
+			{
+			  "zona_nombre": "Laboratorio",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Colina de la luna",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Mansión Oogie",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Cementerio público",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "País de nunca jamás",
+		  "image": "kh1_12_paisnuncajamas",
+		  "zonas": [
+			{
+			  "zona_nombre": "Alpha Garkain",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Alp",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance. They are called phantoms by some, a name which fits well enough, for like phantoms they haunt and torment men. They usually take on the form of a woman, though they can also appear as animals. They are most often found prowling near villages. They attack at night and are most active when the moon is full. Alp saliva can make one fall asleep, and when applied to a sleeping man, can invoke horrible nightmares. Some suggest they are the cause of legends about men who go to sleep healthy and are found in the morning white as snow, not a drop of blood in their veins.\n\nIn combat alps display supernatural speed and incredible (even by vampire standards) stamina. One must aim one's sword with great precision, for alps are unequaled in the art of evading blows. The Yrden Sign is recommended, for it weakens an alp's defenses. Another strategy is to drink the Black Blood potion, for alps suck the blood of their victims to deprive them of strength and regenerate their own powers.\n\nUnlike bruxae, alps cannot turn invisible, yet like bruxae, they emit a shrieking noise whose shock wave can incapacitate. Their greatest asset is their agility and they can leap with uncanny lightness that appears to border on the power of flight. When in human form, they easily blend in with the surrounding community, which makes them very dangerous indeed.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Bruxa",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost mistake them for delayed travelers hurrying towards their night's lodging, yet subtle details give them away: their close ties to birds, their piercing voices and the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.\n\nBruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire's invisibility altogether, it can make it easier to track its motions. A generous smearing of vampire oil is also effective.\n\nBruxae use their sharp claws to attack and can easily break through an opponent's guard by buffeting him with a hail of blows from all directions. They will try to bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. Bruxae are also known for their sonic attacks, which knock down and stun their prey.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Bastión hueco",
+		  "image": "kh1_13_bastionhueco",
+		  "zonas": [
+			{
+			  "zona_nombre": "Vestíbulo",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Biblioteca",
+			  "expansion": "BaW",
+			  "intro": "Looked like a bruxa, but that was no bruxa...",
+			  "author": "fragment of a conversation between the ealdorman of Falkoane and a witcher.",
+			  "detail": "Alps are vampires that resemble bruxae in appearance.",
+			  "image": "bestiary_alp_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Acueducto",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Parada Teleféricos",
+			  "expansion": "BaW",
+			  "intro": "If you must travel through the woods, steer clear of any places where you can hear several different kinds of birds at once. That sound means you're entering a bruxa's territory and can kiss your life farewell.",
+			  "author": "anonymous piece of advice",
+			  "detail": "Fortunately for us all, bruxae are rare creatures.",
+			  "image": "bestiary_bruxa_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+				  "yrden"
+				]
+			  }
+			}
+		  ]
+		},
+		{
+		  "mundo": "Fin del mundo",
+		  "image": "kh1_14_finmundo",
+		  "zonas": [
+			{
+			  "zona_nombre": "Alpha Garkain",
+			  "expansion": "BaW",
+			  "intro": "One can be forgiven for thinking garkains harbor some kind of particular hatred for humans. After all, given what humans are like, it would be hard to blame them.",
+			  "author": "Agnes of Myrkvid, druid flaminica and scholar.",
+			  "detail": "When a vampire gives a witcher a contract to kill another vampire, you can be certain neither of the two is entirely normal.\n\nThe contract seemed simple enough, though Geralt knew his target was a vampire. Yet one must bear in mind vampires are a very diverse group and their various species differ from one another greatly.\n\nThe witcher established the individual he sought had long, hooked claws with which it could tear apart a body with ease, leaving behind venom which hindered the clotting of blood. What's more, it could use these claws to scale even the sheer outer wall of a building, giving others the impression it possessed mind-boggling powers. Geralt also realized his opponent was an experienced predator able to set ambushes for its prey and attack it unexpectedly.\n\nThe monster he was tracking turned out to be a powerful type of garkain, a pack leader or alpha.\n\nAs the witcher expected, in addition to its ability to emit waves of mental energy, this alpha garkain also had powerful venom at its disposal.\n\nThe monster killed for pleasure, not just to satisfy its hunger. It must be admitted that Geralt also gained a measure of satisfaction from eradicating this beast, for he could still remember the massacre in the orphanage for which this garkain was responsible.",
+			  "image": "bestiary_alphagarkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Gael",
+			  "intro": "Vampire bites... and the strong stench of alcohol.",
+			  "author": "Geralt of Rivia",
+			  "detail": "Contrary to popular belief, monsters are not all alike. Like people, individual members of the same species can each have their own unique traits, preferences and weaknesses. A good example of this is the katakan which once fed on the inhabitants of Oxenfurt. Perhaps influenced by its close proximity to the hard-drinking student youth of the city, this vampire had developed a keen appetite for blood spiked with a hefty dose of hard alcohol - and also baubles and gaudy jewelry of all kinds.\n\nThe vampire had clearly thrived on its high-octane diet. It had grown exceptionally strong and gained the ability to regenerate lost life quickly, cause heavy bleeding with its claws and, if all that were not enough, meld into the air and appear again behind its opponent's back. Luckily the Quen Sign meant the witcher was well-equipped to defend against this surprise attack, and the Yrden Sign would let him catch the monster in a trap.\n\nTo bait the vampire, Geralt took note of its dietary preferences and seasoned his blood to match by loading up on cheap wine. This made it somewhat harder to aim his blows, true, but he still managed to defeat the beast - then had another battle awaiting him the next morning, this one against a powerful hangover.",
+			  "image": "bestiary_gael_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "devils_puffball",
+				  "moon_dust"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni",
+				  "yrden"
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Garkain",
+			  "expansion": "BaW",
+			  "intro": "Blood on the ceiling, guts on the walls... Must be a garkain.",
+			  "author": "Yan of Lan Exeter, investigator and Captain of the City Watch",
+			  "detail": "Garkains, like fleders, belong to the class of particularly dangerous vampires whose strength exceeds even that of fiends. An encounter with one of their number almost always ends in death, which is why there are not many eye-witness accounts of them. From the city guard reports written up in Lan Exeter describing the attacks committed in that city in 1104 by three garkains (later killed by a certain Olivier of Gulet, witcher), it seems these horrible monsters do not content themselves with drinking the blood of their victims. The investigators concluded from the blood and guts strewn around the crime scenes that garkains tear their victims to shreds with great delight and muck about in their bloody entrails.\n\nGarkains belong to the group of creatures known as lesser vampires. They often gather around themselves members of other subspecies of lesser vampires, acting in such situations as leaders of the pack. They are by and large unable to run, but can jump a great distance and often attack their prey in that way. During combat, they usually keep their distance from their foes, trying to incapacitate them using a blast of mental energy provoking visions that beguile and disorient.\n\nBefore grappling a garkain, one should drink the Black Blood potion and stock up on vampire oil. It should also be remembered that the Samum and Moon Dust bombs are always effective weapons against any mental attacks.",
+			  "image": "bestiary_garkain_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+				  "moon_dust",
+				  "samum"
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+				  "black_blood"
+				],
+				"signs": [
+
+				]
+			  }
+			},
+			{
+			  "zona_nombre": "Higher Vampire",
+			  "intro": "Men, the polite ones, at least, would call me a monster. A blood-drinking freak.",
+			  "author": "Emiel Regis, higher vampire",
+			  "detail": "Only a mutual thirst for blood links higher vampires to their distant and much more primitive cousins: ekimmaras, alps, katakans and the like. Higher vampires are, in fact, much more similar to humans than to those bat-like blood slurpers. They not only resemble us in appearance, but also share our intelligence and behavioral patterns. This means they do not squat in distant forest or hide in the shadows. On the contrary, they are particularly fond of cities, where they live out deceivingly normal lives. Even witchers are not capable of recognizing them at once, for their medallions remain perfectly motionless in the presence of higher vampires. Yet all these similarities should not blind us to an essential difference: unlike men, higher vampires are immortal. Those who have faced them in combat and survived can be counted on one hand.\n\nIt is a witcher's good fortune that higher vampires are extremely rare – and not all are dangerous to humans. Though they do have a taste for blood, they do not need to drink it to survive. Some higher vampires have renounced feeding on humans altogether and do no harm to anyone, but others give in to their desires. A witcher who braves fighting a higher vampire must bear in mind that he faces a monster endowed with incredible strength, one able to manipulate men and animals, turn invisible and transform into a giant bat - and furthermore one which it is nearly impossible to kill. In other words, even an experienced monster slayer should think twice before accepting a contract on one of these creatures, even if half a kingdom and a princess' hand is in the offing.",
+			  "image": "bestiary_highervampire_654x727",
+			  "vulnerabilities": {
+				"bombs": [
+
+				],
+				"oils": [
+				  "vampire"
+				],
+				"potions": [
+
+				],
+				"signs": [
+				  "igni"
+				]
+			  }
+			}
+		  ]
+		}
+	  ],
+	  "juego": "Kingdom Hearts 2",
+	  "image": "kh1_1_isladeldestino",
+	  "mundos":  [
 		{
 		  "mundo": "Isla del destino",
 		  "image": "kh1_1_isladeldestino",
@@ -1236,3 +2478,4 @@
 		}
 	  ]
 	}
+}
